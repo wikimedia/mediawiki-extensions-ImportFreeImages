@@ -1387,11 +1387,16 @@ $messages['sw'] = array(
 );
 
 /** Tamil (தமிழ்)
+ * @author Karthi.dr
  * @author TRYPPN
  * @author செல்வா
  */
 $messages['ta'] = array(
+	'importfreeimages' => 'இலவச உருவங்களை இறக்கு',
+	'importfreeimages_description' => 'முறையான உரிமமுள்ள படங்களை ஃபிளிக்கரில் இருந்து கொண்டு வந்து உங்கள் விக்கியில் சேர்க்க இப்பக்கம் உதவுகிறது.',
+	'importfreeimages_nophotosfound' => 'உங்கள் தேடுதல் வரையறை  $1 இல் எப்படமும் கிடைக்கவில்லை. அருள்கூர்ந்து மீண்டும் முயற்சிக்கவும்.',
 	'importfreeimages_owner' => 'ஆசிரியர்',
+	'importfreeimages_importthis' => 'இதை இறக்கு',
 	'importfreeimages_next' => 'அடுத்த $1',
 	'importfreeimages_size_square' => 'சதுரம்',
 	'importfreeimages_size_thumbnail' => 'நகம் அளவு சிறுபடம்',
