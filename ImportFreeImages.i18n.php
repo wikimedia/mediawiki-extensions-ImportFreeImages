@@ -133,6 +133,25 @@ $messages['arz'] = array(
 	'importfreeimages_next' => '$1 التالي',
 );
 
+/** Asturian (Asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'importfreeimages' => 'Importar imaxes llibres',
+	'importfreeimages-desc' => "Ufre una manera d'[[Special:ImportFreeImages|importar semeyes con llicencia afayadiza]] de [http://www.flickr.com flickr]",
+	'importfreeimages_description' => 'Esta páxina te permite guetar semeyes cola llicencia afayadiza de flickr ya importales a la to wiki.',
+	'importfreeimages_nophotosfound' => 'Nun s\'alcontró denguna semeya colos criterios de gueta "$1"; por favor, intentalo otra vuelta.',
+	'importfreeimages_owner' => 'Autor',
+	'importfreeimages_importthis' => 'importar esta',
+	'importfreeimages_next' => '$1 siguientes',
+	'importfreeimages_size_square' => 'Cuadráu',
+	'importfreeimages_size_thumbnail' => 'Miniatura',
+	'importfreeimages_size_small' => 'Pequeñu',
+	'importfreeimages_size_medium' => 'Medianu',
+	'importfreeimages_size_large' => 'Grande',
+	'importfreeimages_size_original' => 'Orixinal',
+);
+
 /** Azerbaijani (Azərbaycanca)
  * @author Cekli829
  */
