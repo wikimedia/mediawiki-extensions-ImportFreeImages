@@ -834,6 +834,10 @@ $messages['kn'] = array(
 $messages['ko'] = array(
 	'importfreeimages_owner' => '만든이',
 	'importfreeimages_importthis' => '이 그림 가져오기',
+	'importfreeimages_size_small' => '작게',
+	'importfreeimages_size_medium' => '중간',
+	'importfreeimages_size_large' => '크게',
+	'importfreeimages_size_original' => '원본',
 );
 
 /** Colognian (Ripoarisch)
