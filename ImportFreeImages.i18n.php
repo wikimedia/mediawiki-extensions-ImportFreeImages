@@ -1462,7 +1462,7 @@ $messages['tg-cyrl'] = array(
 	'importfreeimages_next' => 'Баъдӣ $1',
 );
 
-/** Tajik (Latin script) (tojikī)
+/** Tajik (Latin script) (Tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
@@ -1545,7 +1545,7 @@ $messages['vec'] = array(
 	'importfreeimages_next' => 'Sucessivi $1',
 );
 
-/** Veps (Vepsan kel')
+/** Veps (Vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
