@@ -65,7 +65,7 @@ $specialPageAliases['frp'] = array(
 
 /** Swiss German (Alemannisch) */
 $specialPageAliases['gsw'] = array(
-	'ImportFreeImages' => array( 'Freji Bilder importiere' ),
+	'ImportFreeImages' => array( 'Freji_Bilder_importiere' ),
 );
 
 /** Upper Sorbian (Hornjoserbsce) */
