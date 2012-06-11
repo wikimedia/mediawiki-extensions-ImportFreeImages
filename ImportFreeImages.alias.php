@@ -23,12 +23,12 @@ $specialPageAliases['arz'] = array(
 	'ImportFreeImages' => array( 'استوراد_صور_حره' ),
 );
 
-/** Breton (Brezhoneg) */
+/** Breton (brezhoneg) */
 $specialPageAliases['br'] = array(
 	'ImportFreeImages' => array( 'EnporzhiañSkeudennoùFrank' ),
 );
 
-/** Bosnian (Bosanski) */
+/** Bosnian (bosanski) */
 $specialPageAliases['bs'] = array(
 	'ImportFreeImages' => array( 'UvozSlobodnihSlika' ),
 );
@@ -36,6 +36,11 @@ $specialPageAliases['bs'] = array(
 /** German (Deutsch) */
 $specialPageAliases['de'] = array(
 	'ImportFreeImages' => array( 'Freie_Bilder_importieren' ),
+);
+
+/** Zazaki (Zazaki) */
+$specialPageAliases['diq'] = array(
+	'ImportFreeImages' => array( 'ResimanêXoseraTeberde' ),
 );
 
 /** Lower Sorbian (Dolnoserbski) */
@@ -48,17 +53,17 @@ $specialPageAliases['fa'] = array(
 	'ImportFreeImages' => array( 'درون‌ریزی_تصاویر_آزاد' ),
 );
 
-/** Finnish (Suomi) */
+/** Finnish (suomi) */
 $specialPageAliases['fi'] = array(
 	'ImportFreeImages' => array( 'Tuo_vapaita_kuvia' ),
 );
 
-/** French (Français) */
+/** French (français) */
 $specialPageAliases['fr'] = array(
 	'ImportFreeImages' => array( 'ImporterImagesLibres' ),
 );
 
-/** Franco-Provençal (Arpetan) */
+/** Franco-Provençal (arpetan) */
 $specialPageAliases['frp'] = array(
 	'ImportFreeImages' => array( 'Importar_des_émâges_libres', 'ImportarDesÉmâgesLibres' ),
 );
@@ -78,12 +83,12 @@ $specialPageAliases['ht'] = array(
 	'ImportFreeImages' => array( 'EnpòteImajLib' ),
 );
 
-/** Hungarian (Magyar) */
+/** Hungarian (magyar) */
 $specialPageAliases['hu'] = array(
 	'ImportFreeImages' => array( 'Szabad_képek_importálása' ),
 );
 
-/** Interlingua (Interlingua) */
+/** Interlingua (interlingua) */
 $specialPageAliases['ia'] = array(
 	'ImportFreeImages' => array( 'Importar_imagines_libere' ),
 );
@@ -93,7 +98,7 @@ $specialPageAliases['id'] = array(
 	'ImportFreeImages' => array( 'Impor_gambar_gratis', 'ImporGambarGratis' ),
 );
 
-/** Italian (Italiano) */
+/** Italian (italiano) */
 $specialPageAliases['it'] = array(
 	'ImportFreeImages' => array( 'ImportaImmaginiLibere' ),
 );
@@ -101,6 +106,11 @@ $specialPageAliases['it'] = array(
 /** Japanese (日本語) */
 $specialPageAliases['ja'] = array(
 	'ImportFreeImages' => array( 'フリー画像のインポート', 'フリーの画像をインポート' ),
+);
+
+/** Korean (한국어) */
+$specialPageAliases['ko'] = array(
+	'ImportFreeImages' => array( '자유그림가져오기' ),
 );
 
 /** Colognian (Ripoarisch) */
@@ -118,7 +128,7 @@ $specialPageAliases['lb'] = array(
 	'ImportFreeImages' => array( 'Fräi_Biller_importéieren' ),
 );
 
-/** Macedonian (Македонски) */
+/** Macedonian (македонски) */
 $specialPageAliases['mk'] = array(
 	'ImportFreeImages' => array( 'УвозНаСлободниСлики' ),
 );
@@ -133,7 +143,7 @@ $specialPageAliases['mr'] = array(
 	'ImportFreeImages' => array( 'मुक्तचित्रेआयात' ),
 );
 
-/** Norwegian Bokmål (‪Norsk (bokmål)‬) */
+/** Norwegian Bokmål (‪norsk (bokmål)‬) */
 $specialPageAliases['nb'] = array(
 	'ImportFreeImages' => array( 'Importer_frie_bilder' ),
 );
@@ -148,12 +158,12 @@ $specialPageAliases['nl'] = array(
 	'ImportFreeImages' => array( 'VrijeAfbeeldingenImporteren' ),
 );
 
-/** Occitan (Occitan) */
+/** Occitan (occitan) */
 $specialPageAliases['oc'] = array(
 	'ImportFreeImages' => array( 'ImportarImatgesLiures' ),
 );
 
-/** Portuguese (Português) */
+/** Portuguese (português) */
 $specialPageAliases['pt'] = array(
 	'ImportFreeImages' => array( 'Importar_imagens_de_acesso_livre' ),
 );
@@ -163,17 +173,17 @@ $specialPageAliases['sa'] = array(
 	'ImportFreeImages' => array( 'आयातमुक्तछायाचित्र' ),
 );
 
-/** Slovak (Slovenčina) */
+/** Slovak (slovenčina) */
 $specialPageAliases['sk'] = array(
 	'ImportFreeImages' => array( 'ImportSlobodnýchObrázkov' ),
 );
 
-/** Albanian (Shqip) */
+/** Albanian (shqip) */
 $specialPageAliases['sq'] = array(
 	'ImportFreeImages' => array( 'ImportoFiguraFalas' ),
 );
 
-/** Swedish (Svenska) */
+/** Swedish (svenska) */
 $specialPageAliases['sv'] = array(
 	'ImportFreeImages' => array( 'Importera_fria_bilder' ),
 );
@@ -193,7 +203,7 @@ $specialPageAliases['tr'] = array(
 	'ImportFreeImages' => array( 'ÖzgürResimAktar', 'ÖzgürResimİçeAktar' ),
 );
 
-/** Simplified Chinese (‪中文(简体)‬) */
+/** Simplified Chinese (‪中文（简体）‬) */
 $specialPageAliases['zh-hans'] = array(
 	'ImportFreeImages' => array( '导入自由图像' ),
 );
