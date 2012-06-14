@@ -133,7 +133,7 @@ $messages['arz'] = array(
 	'importfreeimages_next' => '$1 التالي',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -152,7 +152,7 @@ $messages['ast'] = array(
 	'importfreeimages_size_original' => 'Orixinal',
 );
 
-/** Azerbaijani (Azərbaycanca)
+/** Azerbaijani (azərbaycanca)
  * @author Cekli829
  */
 $messages['az'] = array(
@@ -179,7 +179,7 @@ $messages['bar'] = array(
 	'importfreeimages_size_original' => 'original',
 );
 
-/** Belarusian (Беларуская)
+/** Belarusian (беларуская)
  * @author Тест
  */
 $messages['be'] = array(
@@ -206,7 +206,7 @@ $messages['be-tarask'] = array(
 	'importfreeimages_size_original' => 'Арыгінальны',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  * @author Spiritia
  */
@@ -234,7 +234,7 @@ $messages['bn'] = array(
 	'importfreeimages_size_original' => 'মূল',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fohanno
  * @author Fulup
  * @author Gwenn-Ael
@@ -256,7 +256,7 @@ $messages['br'] = array(
 	'importfreeimages_size_original' => 'Orin',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -275,7 +275,7 @@ $messages['bs'] = array(
 	'importfreeimages_size_original' => 'Originalno',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Solde
  * @author Toniher
  */
@@ -292,14 +292,14 @@ $messages['ca'] = array(
 	'importfreeimages_size_original' => 'Original',
 );
 
-/** Sorani (کوردی)
+/** Sorani Kurdish (کوردی)
  * @author رزگار
  */
 $messages['ckb'] = array(
 	'importfreeimages_owner' => 'نوسه‌ر',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Li-sung
  * @author Matěj Grabovský
  */
@@ -326,7 +326,7 @@ $messages['cu'] = array(
 	'importfreeimages_owner' => 'творь́ць',
 );
 
-/** Danish (Dansk)
+/** Danish (dansk)
  * @author Froztbyte
  * @author Jon Harald Søby
  */
@@ -431,7 +431,7 @@ $messages['eo'] = array(
 	'importfreeimages_size_original' => 'Originalo',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Antur
  * @author Crazymadlover
  * @author Drini
@@ -454,7 +454,7 @@ $messages['es'] = array(
 	'importfreeimages_size_original' => 'Original',
 );
 
-/** Estonian (Eesti)
+/** Estonian (eesti)
  * @author Avjoska
  * @author Pikne
  */
@@ -465,7 +465,7 @@ $messages['et'] = array(
 	'importfreeimages_size_thumbnail' => 'Pisipilt',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author Kobazulo
  */
 $messages['eu'] = array(
@@ -494,7 +494,7 @@ $messages['fa'] = array(
 	'importfreeimages_size_original' => 'اصلی',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Centerlink
  * @author Crt
  * @author Jack Phoenix
@@ -516,7 +516,7 @@ $messages['fi'] = array(
 	'importfreeimages_size_original' => 'Alkuperäinen',
 );
 
-/** French (Français)
+/** French (français)
  * @author Crochet.david
  * @author Grondin
  * @author IAlex
@@ -539,7 +539,7 @@ $messages['fr'] = array(
 	'importfreeimages_size_original' => 'Original',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author Cedric31
  * @author ChrisPtDe
  */
@@ -651,7 +651,7 @@ $messages['hi'] = array(
 	'importfreeimages_next' => 'अगले $1',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author Dalibor Bosits
  */
 $messages['hr'] = array(
@@ -683,7 +683,7 @@ $messages['hsb'] = array(
 	'importfreeimages_size_original' => 'Originalny',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dani
  * @author Glanthor Reviol
  */
@@ -703,7 +703,7 @@ $messages['hu'] = array(
 	'importfreeimages_size_original' => 'Eredeti',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -750,7 +750,7 @@ $messages['io'] = array(
 	'importfreeimages_owner' => 'Autoro',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Darth Kule
  */
 $messages['it'] = array(
@@ -897,7 +897,7 @@ $messages['lfn'] = array(
 	'importfreeimages_owner' => 'Autor',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -1044,7 +1044,7 @@ $messages['nl'] = array(
 	'importfreeimages_size_original' => 'Origineel',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Frokor
  * @author Jon Harald Søby
  * @author Nghtwlkr
@@ -1071,7 +1071,7 @@ $messages['nso'] = array(
 	'importfreeimages_next' => 'Latela $1',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -1101,7 +1101,7 @@ $messages['pdc'] = array(
 	'importfreeimages_size_large' => 'Gross',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Derbeth
  * @author Leinad
  * @author Maikking
@@ -1156,7 +1156,7 @@ $messages['ps'] = array(
 	'importfreeimages_size_original' => 'آرنی',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Giro720
  * @author Hamilton Abreu
  * @author Malafaya
@@ -1177,7 +1177,7 @@ $messages['pt'] = array(
 	'importfreeimages_size_original' => 'Original',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  * @author Jesielt
  */
@@ -1197,7 +1197,7 @@ $messages['pt-br'] = array(
 	'importfreeimages_size_original' => 'Original',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author Firilacroco
  * @author KlaudiuMihaila
  * @author Stelistcristi
@@ -1215,7 +1215,7 @@ $messages['ro'] = array(
 	'importfreeimages_size_original' => 'Originală',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
@@ -1231,7 +1231,7 @@ $messages['roa-tara'] = array(
 	'importfreeimages_size_original' => 'Origgenale',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Ferrer
  * @author Lockal
  * @author Александр Сигачёв
@@ -1267,14 +1267,14 @@ $messages['rue'] = array(
 	'importfreeimages_size_original' => 'Оріґіналный',
 );
 
-/** Sardinian (Sardu)
+/** Sardinian (sardu)
  * @author Marzedu
  */
 $messages['sc'] = array(
 	'importfreeimages_owner' => 'Autore',
 );
 
-/** Sicilian (Sicilianu)
+/** Sicilian (sicilianu)
  * @author Melos
  * @author Santu
  */
@@ -1288,7 +1288,7 @@ $messages['scn'] = array(
 	'importfreeimages_next' => 'Succissivi $1',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
@@ -1301,7 +1301,7 @@ $messages['sk'] = array(
 	'importfreeimages_next' => 'Ďalších $1',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  */
 $messages['sl'] = array(
@@ -1320,7 +1320,7 @@ $messages['sl'] = array(
 	'importfreeimages_size_original' => 'Izvirno',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Rancher
  * @author Verlor
  * @author Михајло Анђелковић
@@ -1338,7 +1338,7 @@ $messages['sr-ec'] = array(
 	'importfreeimages_size_original' => 'Оригинална величина',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪srpski (latinica)‬) */
 $messages['sr-el'] = array(
 	'importfreeimages' => 'Uvezi slobodne slike',
 	'importfreeimages_owner' => 'Autor',
@@ -1379,7 +1379,7 @@ $messages['su'] = array(
 	'importfreeimages_next' => '$1 salajengna',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Fluff
  * @author Lejonel
  * @author M.M.S.
@@ -1444,7 +1444,7 @@ $messages['te'] = array(
 	'importfreeimages_size_original' => 'అసలు',
 );
 
-/** Tetum (Tetun)
+/** Tetum (tetun)
  * @author MF-Warburg
  */
 $messages['tet'] = array(
@@ -1452,7 +1452,7 @@ $messages['tet'] = array(
 	'importfreeimages_next' => 'Oinmai $1',
 );
 
-/** Tajik (Cyrillic script) (Тоҷикӣ)
+/** Tajik (Cyrillic script) (тоҷикӣ)
  * @author Ibrahim
  */
 $messages['tg-cyrl'] = array(
@@ -1462,7 +1462,7 @@ $messages['tg-cyrl'] = array(
 	'importfreeimages_next' => 'Баъдӣ $1',
 );
 
-/** Tajik (Latin script) (Tojikī)
+/** Tajik (Latin script) (tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
@@ -1511,7 +1511,7 @@ $messages['tr'] = array(
 	'importfreeimages_size_original' => 'Orijinal',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author AS
  * @author Aleksandrit
  * @author Prima klasy4na
@@ -1532,7 +1532,7 @@ $messages['uk'] = array(
 	'importfreeimages_size_original' => 'Оригінальний',
 );
 
-/** Vèneto (Vèneto)
+/** vèneto (vèneto)
  * @author Candalua
  */
 $messages['vec'] = array(
@@ -1586,7 +1586,7 @@ $messages['vo'] = array(
 	'importfreeimages_next' => 'Sököl $1',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Liangent
  * @author PhiLiP
  */
@@ -1606,7 +1606,7 @@ $messages['zh-hans'] = array(
 	'importfreeimages_size_original' => '原始消息',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Mark85296341
  * @author Tomchiukc
  * @author Wrightbus
