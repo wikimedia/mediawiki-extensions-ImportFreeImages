@@ -23,6 +23,11 @@ $specialPageAliases['arz'] = array(
 	'ImportFreeImages' => array( 'استوراد_صور_حره' ),
 );
 
+/** Assamese (অসমীয়া) */
+$specialPageAliases['as'] = array(
+	'ImportFreeImages' => array( 'মুক্ত_চিত্ৰ_আমদানি' ),
+);
+
 /** Breton (brezhoneg) */
 $specialPageAliases['br'] = array(
 	'ImportFreeImages' => array( 'EnporzhiañSkeudennoùFrank' ),
@@ -43,7 +48,7 @@ $specialPageAliases['diq'] = array(
 	'ImportFreeImages' => array( 'ResimanêXoseraTeberde' ),
 );
 
-/** Lower Sorbian (Dolnoserbski) */
+/** Lower Sorbian (dolnoserbski) */
 $specialPageAliases['dsb'] = array(
 	'ImportFreeImages' => array( 'Liche_wobraze_importěrowaś' ),
 );
@@ -73,7 +78,7 @@ $specialPageAliases['gsw'] = array(
 	'ImportFreeImages' => array( 'Freji_Bilder_importiere' ),
 );
 
-/** Upper Sorbian (Hornjoserbsce) */
+/** Upper Sorbian (hornjoserbsce) */
 $specialPageAliases['hsb'] = array(
 	'ImportFreeImages' => array( 'Swobodne_wobrazy_importować' ),
 );
