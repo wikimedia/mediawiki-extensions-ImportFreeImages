@@ -80,7 +80,7 @@ $messages['aln'] = array(
 	'importfreeimages_size_original' => 'Origjinal',
 );
 
-/** Aragonese (Aragonés)
+/** Aragonese (aragonés)
  * @author Juanpabl
  */
 $messages['an'] = array(
@@ -186,7 +186,7 @@ $messages['be'] = array(
 	'importfreeimages_owner' => 'Аўтар',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -319,7 +319,7 @@ $messages['cs'] = array(
 	'importfreeimages_size_original' => 'Originál',
 );
 
-/** Church Slavic (Словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
+/** Church Slavic (словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
  * @author ОйЛ
  */
 $messages['cu'] = array(
@@ -372,7 +372,7 @@ $messages['de-formal'] = array(
 	'importfreeimages_nophotosfound' => 'Es wurden keine Fotos mit den Suchkriterien „$1” gefunden, bitte versuchen Sie es erneut.',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -563,7 +563,7 @@ $messages['fy'] = array(
 	'importfreeimages_owner' => 'Auteur',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Alma
  * @author Toliño
  * @author Xosé
@@ -664,7 +664,7 @@ $messages['hr'] = array(
 	'importfreeimages_next' => 'Slijedeće $1',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
@@ -1252,7 +1252,7 @@ $messages['ru'] = array(
 	'importfreeimages_size_original' => 'Исходный',
 );
 
-/** Rusyn (Русиньскый)
+/** Rusyn (русиньскый)
  * @author Gazeb
  */
 $messages['rue'] = array(
