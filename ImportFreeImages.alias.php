@@ -73,6 +73,11 @@ $specialPageAliases['frp'] = array(
 	'ImportFreeImages' => array( 'Importar_des_émâges_libres', 'ImportarDesÉmâgesLibres' ),
 );
 
+/** Galician (galego) */
+$specialPageAliases['gl'] = array(
+	'ImportFreeImages' => array( 'Importar_imaxes_libres' ),
+);
+
 /** Swiss German (Alemannisch) */
 $specialPageAliases['gsw'] = array(
 	'ImportFreeImages' => array( 'Freji_Bilder_importiere' ),
