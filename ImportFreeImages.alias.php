@@ -205,7 +205,7 @@ $specialPageAliases['sw'] = array(
 
 /** Tagalog (Tagalog) */
 $specialPageAliases['tl'] = array(
-	'ImportFreeImages' => array( 'Mag-angkat ng malayang mga larawan' ),
+	'ImportFreeImages' => array( 'Mag-angkat_ng_malayang_mga_larawan' ),
 );
 
 /** Turkish (Türkçe) */
