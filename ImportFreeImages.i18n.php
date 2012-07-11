@@ -974,7 +974,7 @@ $messages['mt'] = array(
 	'importfreeimages_next' => '$1 li jmiss',
 );
 
-/** Erzya (Эрзянь)
+/** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  */
 $messages['myv'] = array(
@@ -999,8 +999,7 @@ $messages['nah'] = array(
 	'importfreeimages_next' => 'Niman $1',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -1545,7 +1544,7 @@ $messages['vec'] = array(
 	'importfreeimages_next' => 'Sucessivi $1',
 );
 
-/** Veps (Vepsän kel’)
+/** Veps (vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
