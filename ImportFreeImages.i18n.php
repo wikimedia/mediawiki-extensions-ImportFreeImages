@@ -1287,6 +1287,18 @@ $messages['scn'] = array(
 	'importfreeimages_next' => 'Succissivi $1',
 );
 
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'importfreeimages_owner' => 'කතෘ',
+	'importfreeimages_size_square' => 'හතරැස්',
+	'importfreeimages_size_small' => 'කුඩා',
+	'importfreeimages_size_medium' => 'මධ්‍යම',
+	'importfreeimages_size_large' => 'විශාල',
+	'importfreeimages_size_original' => 'නියම',
+);
+
 /** Slovak (slovenčina)
  * @author Helix84
  */
