@@ -800,6 +800,20 @@ $messages['jv'] = array(
 	'importfreeimages_importthis' => 'impor iki',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'importfreeimages_owner' => 'ავტორი',
+	'importfreeimages_next' => 'შემდეგი $1',
+	'importfreeimages_size_square' => 'კვადრატი',
+	'importfreeimages_size_thumbnail' => 'მინიატიურა',
+	'importfreeimages_size_small' => 'პატარა',
+	'importfreeimages_size_medium' => 'საშუალო',
+	'importfreeimages_size_large' => 'დიდი',
+	'importfreeimages_size_original' => 'საწყისი',
+);
+
 /** Khmer (ភាសាខ្មែរ)
  * @author Chhorran
  * @author Thearith
