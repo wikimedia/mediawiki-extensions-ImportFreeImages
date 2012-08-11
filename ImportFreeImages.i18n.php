@@ -1307,6 +1307,7 @@ $messages['scn'] = array(
 $messages['si'] = array(
 	'importfreeimages_owner' => 'කතෘ',
 	'importfreeimages_size_square' => 'හතරැස්',
+	'importfreeimages_size_thumbnail' => 'සිඟිති රූපය',
 	'importfreeimages_size_small' => 'කුඩා',
 	'importfreeimages_size_medium' => 'මධ්‍යම',
 	'importfreeimages_size_large' => 'විශාල',
