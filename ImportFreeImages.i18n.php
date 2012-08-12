@@ -982,10 +982,19 @@ $messages['ms'] = array(
 );
 
 /** Maltese (Malti)
+ * @author Chrisportelli
  * @author Roderick Mallia
  */
 $messages['mt'] = array(
+	'importfreeimages_owner' => 'Awtur',
+	'importfreeimages_importthis' => 'importa din',
 	'importfreeimages_next' => '$1 li jmiss',
+	'importfreeimages_size_square' => 'Kwadru',
+	'importfreeimages_size_thumbnail' => 'Minjatura',
+	'importfreeimages_size_small' => 'Żgħir',
+	'importfreeimages_size_medium' => 'Oriġinali',
+	'importfreeimages_size_large' => 'Kbir',
+	'importfreeimages_size_original' => 'Oriġinali',
 );
 
 /** Erzya (эрзянь)
