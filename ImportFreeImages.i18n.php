@@ -463,6 +463,10 @@ $messages['et'] = array(
 	'importfreeimages_owner' => 'Autor',
 	'importfreeimages_next' => 'Järgmised $1',
 	'importfreeimages_size_thumbnail' => 'Pisipilt',
+	'importfreeimages_size_small' => 'Väike',
+	'importfreeimages_size_medium' => 'Keskmine',
+	'importfreeimages_size_large' => 'Suur',
+	'importfreeimages_size_original' => 'Algne',
 );
 
 /** Basque (euskara)
