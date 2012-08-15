@@ -567,6 +567,13 @@ $messages['fy'] = array(
 	'importfreeimages_owner' => 'Auteur',
 );
 
+/** Irish (Gaeilge)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ga'] = array(
+	'importfreeimages_owner' => 'Údar',
+);
+
 /** Galician (galego)
  * @author Alma
  * @author Toliño
