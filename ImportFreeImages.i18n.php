@@ -1634,6 +1634,14 @@ $messages['vo'] = array(
 	'importfreeimages_next' => 'Sököl $1',
 );
 
+/** Yiddish (ייִדיש)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['yi'] = array(
+	'importfreeimages_owner' => 'מחבר',
+	'importfreeimages_size_small' => 'קליין',
+);
+
 /** Simplified Chinese (‪中文（简体）‬)
  * @author Liangent
  * @author PhiLiP
