@@ -1580,6 +1580,17 @@ $messages['uk'] = array(
 	'importfreeimages_size_original' => 'Оригінальний',
 );
 
+/** Urdu (اردو)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ur'] = array(
+	'importfreeimages_owner' => 'مصنف',
+	'importfreeimages_size_small' => 'چھوٹا سا',
+	'importfreeimages_size_medium' => 'درمیانے',
+	'importfreeimages_size_large' => 'بڑی',
+	'importfreeimages_size_original' => 'اصل',
+);
+
 /** vèneto (vèneto)
  * @author Candalua
  */
