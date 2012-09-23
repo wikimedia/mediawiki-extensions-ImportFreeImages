@@ -113,6 +113,8 @@ $messages['ar'] = array(
  */
 $messages['arc'] = array(
 	'importfreeimages_owner' => 'ܣܝܘܡܐ',
+	'importfreeimages_next' => '$1 ܕܒܬܪ',
+	'importfreeimages_size_square' => 'ܡܪܒܥܐ',
 	'importfreeimages_size_thumbnail' => 'ܨܘܪܬܐ ܙܥܘܪܬܐ',
 	'importfreeimages_size_small' => 'ܙܥܘܪܬܐ',
 	'importfreeimages_size_medium' => 'ܡܨܥܝܬܐ',
