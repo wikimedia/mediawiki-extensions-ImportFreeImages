@@ -153,7 +153,7 @@ $specialPageAliases['mr'] = array(
 	'ImportFreeImages' => array( 'मुक्तचित्रेआयात' ),
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬) */
+/** Norwegian Bokmål (norsk (bokmål)‎) */
 $specialPageAliases['nb'] = array(
 	'ImportFreeImages' => array( 'Importer_frie_bilder' ),
 );
@@ -213,7 +213,7 @@ $specialPageAliases['tr'] = array(
 	'ImportFreeImages' => array( 'ÖzgürResimAktar', 'ÖzgürResimİçeAktar' ),
 );
 
-/** Simplified Chinese (‪中文（简体）‬) */
+/** Simplified Chinese (中文（简体）‎) */
 $specialPageAliases['zh-hans'] = array(
 	'ImportFreeImages' => array( '导入自由图像' ),
 );
