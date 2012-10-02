@@ -188,7 +188,7 @@ $messages['be'] = array(
 	'importfreeimages_owner' => 'Аўтар',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -365,7 +365,7 @@ $messages['de'] = array(
 	'importfreeimages_size_original' => 'Original',
 );
 
-/** German (formal address) (‪Deutsch (Sie-Form)‬)
+/** German (formal address) (Deutsch (Sie-Form)‎)
  * @author Raimond Spekking
  * @author The Evil IP address
  */
@@ -894,7 +894,7 @@ $messages['ksh'] = array(
 	'importfreeimages_size_original' => 'Ojinahl',
 );
 
-/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+/** Kurdish (Latin script) (Kurdî (latînî)‎)
  * @author George Animal
  * @author Gomada
  */
@@ -1043,7 +1043,7 @@ $messages['nah'] = array(
 	'importfreeimages_next' => 'Niman $1',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -1087,7 +1087,7 @@ $messages['nl'] = array(
 	'importfreeimages_size_original' => 'Origineel',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Frokor
  * @author Jon Harald Søby
  * @author Nghtwlkr
@@ -1378,7 +1378,7 @@ $messages['sl'] = array(
 	'importfreeimages_size_original' => 'Izvirno',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  * @author Verlor
  * @author Михајло Анђелковић
@@ -1396,7 +1396,7 @@ $messages['sr-ec'] = array(
 	'importfreeimages_size_original' => 'Оригинална величина',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬) */
+/** Serbian (Latin script) (srpski (latinica)‎) */
 $messages['sr-el'] = array(
 	'importfreeimages' => 'Uvezi slobodne slike',
 	'importfreeimages_owner' => 'Autor',
@@ -1663,7 +1663,7 @@ $messages['yi'] = array(
 	'importfreeimages_size_small' => 'קליין',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Liangent
  * @author PhiLiP
  */
@@ -1683,7 +1683,7 @@ $messages['zh-hans'] = array(
 	'importfreeimages_size_original' => '原始消息',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Mark85296341
  * @author Tomchiukc
  * @author Wrightbus
