@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Solde",
+			"Toniher"
+		]
+	},
+	"importfreeimages": "Importa imatges lliures",
+	"importfreeimages_owner": "Autor",
+	"importfreeimages_importthis": "importa-ho",
+	"importfreeimages_next": "Següent $1",
+	"importfreeimages_size_square": "Quadrat",
+	"importfreeimages_size_thumbnail": "Miniatura",
+	"importfreeimages_size_small": "Petit",
+	"importfreeimages_size_medium": "Mitjà",
+	"importfreeimages_size_large": "Gran",
+	"importfreeimages_size_original": "Original"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Li-sung",
+			"Matěj Grabovský"
+		]
+	},
+	"importfreeimages": "Importovat svobodné obrázky",
+	"importfreeimages-desc": "Umožňuje [[Special:ImportFreeImages|imprtování obrázků se správnou licencí]] z [http://www.flickr.com Flickru]",
+	"importfreeimages_description": "Tato stránka vám umožní importovat správně licencované obrázky z Flickru na vaši wiki",
+	"importfreeimages_nophotosfound": "Nebyly nalezeny žádné obrázky odpovídající vašim kritériím „$1“. Prosím, zkuste to znovu.",
+	"importfreeimages_owner": "Autor",
+	"importfreeimages_importthis": "importovat toto",
+	"importfreeimages_next": "Dalších $1",
+	"importfreeimages_size_square": "Čtverec",
+	"importfreeimages_size_thumbnail": "Náhled",
+	"importfreeimages_size_small": "Malá",
+	"importfreeimages_size_medium": "Střední",
+	"importfreeimages_size_large": "Velká",
+	"importfreeimages_size_original": "Originál"
+}

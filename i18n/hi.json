@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kaustubh"
+		]
+	},
+	"importfreeimages": "मुक्त चित्र आयात करें",
+	"importfreeimages_nophotosfound": "'$1' से मिलने वाले फ़ोटो मिले नहीं, कृपया फिरसे यत्न करें।",
+	"importfreeimages_owner": "लेखक",
+	"importfreeimages_importthis": "इसे आयात करें",
+	"importfreeimages_next": "अगले $1"
+}

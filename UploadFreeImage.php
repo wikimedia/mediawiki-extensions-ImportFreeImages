@@ -44,13 +44,14 @@ class UploadFreeImage extends UploadFromUrl {
 	/**
 	 * Get the source URL for an image
 	 *
-	 * @param $flickrId Integer: Flickr photo ID
-	 * @param $requestedSize String: label of the requested size
+	 * @param int $flickrId Flickr photo ID
+	 * @param string $requestedSize Label of the requested size
 	 * @return mixed URL or false
 	 */
 	public static function getUrl( $flickrId, $requestedSize ) {
-		if ( !$requestedSize )
+		if ( !$requestedSize ) {
 			return false;
+		}
 
 		$ifi = new ImportFreeImages();
 		$sizes = $ifi->getSizes( $flickrId );
@@ -70,7 +71,10 @@ class UploadFreeImage extends UploadFromUrl {
 	 */
 	public static function onUploadFormSourceDescriptors( &$descriptor, &$radio, $selectedSourceType ) {
 		global $wgRequest;
-		if ( $wgRequest->getVal( 'wpSourceType' ) != 'IFI' || !$wgRequest->getCheck( 'wpFlickrId' ) )
+		if (
+			$wgRequest->getVal( 'wpSourceType' ) != 'IFI' ||
+			!$wgRequest->getCheck( 'wpFlickrId' )
+		)
 		{
 			return true;
 		}
@@ -88,7 +92,7 @@ class UploadFreeImage extends UploadFromUrl {
 		// Create radio buttons. TODO: Show resolution; Make largest size default
 		$options = array();
 		foreach ( $sizes as $size ) {
-			$label = wfMsgExt( 'importfreeimages_size_' . strtolower( $size['label'] ), 'parseinline' );
+			$label = wfMessage( 'importfreeimages_size_' . strtolower( $size['label'] ) )->parse();
 			$options[$label] = $size['label'];
 		}
 
@@ -115,7 +119,11 @@ class UploadFreeImage extends UploadFromUrl {
 
 	public static function onUploadFormInitDescriptor( &$descriptor ) {
 		global $wgRequest;
-		if ( $wgRequest->getVal( 'wpSourceType' ) != 'IFI' || !$wgRequest->getCheck( 'wpFlickrId' ) )
+
+		if (
+			$wgRequest->getVal( 'wpSourceType' ) != 'IFI' ||
+			!$wgRequest->getCheck( 'wpFlickrId' )
+		)
 		{
 			return true;
 		}
@@ -128,15 +136,16 @@ class UploadFreeImage extends UploadFromUrl {
 		if ( $ifi->creditsTemplate ) {
 			$owner_wiki = wfEscapeWikiText( $info['owner']['realname'] );
 			$id_wiki = wfEscapeWikiText( $id );
-			$caption = "{{" . $ifi->creditsTemplate . intval( $info['license'] ) .
+			$caption = '{{' . $ifi->creditsTemplate . intval( $info['license'] ) .
 				"|1=$id_wiki|2=$owner_wiki|3=$name_wiki}}";
 		} else {
 			// TODO: this is totally wrong: The whole message should be configurable, we shouldn't include arbitrary templates
 			// additionally, the license information is not correct (we are not guaranteed to get "CC by 2.0" images only)
-			$caption = wfMsgForContent( 'importfreeimages_filefromflickr',
+			$caption = wfMessage(
+				'importfreeimages_filefromflickr',
 				$info['title'],
 				'http://www.flickr.com/people/' . urlencode( $info['owner']['username'] ) . ' ' . $name_wiki
-			) . ' {{CC by 2.0}} ';
+			)->inContentLanguage()->text() . ' {{CC by 2.0}} ';
 			$caption = trim( $caption );
 		}
 		$descriptor['UploadDescription']['default'] = $caption;

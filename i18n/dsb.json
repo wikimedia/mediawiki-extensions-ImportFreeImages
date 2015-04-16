@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"importfreeimages": "Liche wobraze importěrowaś",
+	"importfreeimages-desc": "Zmóžnja [[Special:ImportFreeImages|import pórědnje licencěrowanych fotow]] z [http://www.flickr.com flickr]",
+	"importfreeimages_description": "Toś ten bok śi zmóžnja, na Flickrje pórědnje licencěrowane fota pytaś a je do twójogo wikija importěrowaś.",
+	"importfreeimages_nophotosfound": "Za twóje pytańske kriteriumy '$1' njejsu žedne fota namakali, pšosym wopytaj hyšći raz.",
+	"importfreeimages_owner": "Awtor",
+	"importfreeimages_importthis": "to importěrowaś",
+	"importfreeimages_next": "Pśiducy $1",
+	"importfreeimages_size_square": "Kwadrat",
+	"importfreeimages_size_thumbnail": "Pśeglědowy wobraz",
+	"importfreeimages_size_small": "Mały",
+	"importfreeimages_size_medium": "Srědny",
+	"importfreeimages_size_large": "Wjeliki",
+	"importfreeimages_size_original": "Originalny"
+}

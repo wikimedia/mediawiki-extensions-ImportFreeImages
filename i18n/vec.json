@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Candalua"
+		]
+	},
+	"importfreeimages": "Inporta imagini lìbare",
+	"importfreeimages-desc": "Fornisse un modo par [[Special:ImportFreeImages|inportar foto co' la justa licensa]] da [http://www.flickr.com flickr]",
+	"importfreeimages_description": "Sta pàxena la te permete de sercar imagini co' la justa licensa su flickr e inportarle su la to wiki.",
+	"importfreeimages_nophotosfound": "Nissuna foto la sodisfa el criterio de riçerca '$1', próa da novo.",
+	"importfreeimages_owner": "Autor",
+	"importfreeimages_importthis": "inporta sto qua",
+	"importfreeimages_next": "Sucessivi $1"
+}

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dalibor Bosits"
+		]
+	},
+	"importfreeimages": "Uvezi slobodne slike",
+	"importfreeimages-desc": "Omogućava [[Special:ImportFreeImages|uvoženje pravilno licenciranih fotografija]] iz [http://www.flickr.com flickr]",
+	"importfreeimages_description": "Ova stranica vam omogućava traženje pravilno licenciranih fotografija na flickr-u i njihovo uvoženje na wiki.",
+	"importfreeimages_nophotosfound": "Za vaš traženi pojam '$1' nije pronađena ni jedna fotografija, molimo pokušajte ponovo.",
+	"importfreeimages_owner": "Autor",
+	"importfreeimages_importthis": "uvezi ovo",
+	"importfreeimages_next": "Slijedeće $1"
+}

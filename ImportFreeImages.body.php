@@ -42,6 +42,7 @@ class ImportFreeImages {
 		$this->oldLevel = error_reporting();
 		error_reporting( $this->oldLevel ^ E_STRICT );
 	}
+
 	/**
 	 * Restore the error levels disabled with suppressStrictWarnings()
 	 */
@@ -72,8 +73,8 @@ class ImportFreeImages {
 	/**
 	 * Search for Flickr photos
 	 *
-	 * @param $query String: search query
-	 * @param $page Integer: page number
+	 * @param string $query Search query
+	 * @param int $page Page number
 	 * @return array TODO
 	 */
 	public function searchPhotos( $query, $page ) {
@@ -93,13 +94,14 @@ class ImportFreeImages {
 		if ( !$result || !is_array( $result ) || !isset( $result['photo'] ) ) {
 			return false;
 		}
+
 		return $result;
 	}
 
 	/**
 	 * Get photo information for an ID
 	 *
-	 * @param $id Integer: ID
+	 * @param int $id ID
 	 * @return array
 	 */
 	public function getPhotoInfo( $id ) {
@@ -112,7 +114,7 @@ class ImportFreeImages {
 	/**
 	 * Get author information for an nsid
 	 *
-	 * @param $owner String: NSID
+	 * @param string $owner NSID
 	 * @return array TODO
 	 */
 	public function getOwnerInfo( $owner ) {
@@ -123,9 +125,9 @@ class ImportFreeImages {
 	}
 
 	/**
-	 * Get sizes and urls for a certain photo
+	 * Get sizes and URLs for a certain photo
 	 *
-	 * @param $id int Flickr photo id
+	 * @param int $id Flickr photo ID
 	 * @return array [{'label': 'Large/Original', 'source': 'url', ...}, ...]
 	 */
 	public function getSizes( $id ) {

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liangent",
+			"PhiLiP"
+		]
+	},
+	"importfreeimages": "汇入自由版权图片",
+	"importfreeimages-desc": "为从[http://www.flickr.com flickr][[Special:ImportFreeImages|汇入有合适版权的相片]]提供方法",
+	"importfreeimages_description": "这页面让你可以从flickr找寻合适版权的相片，并汇入到你的围纪内。",
+	"importfreeimages_nophotosfound": "没有相片符合你提出的「$1」搜寻要求，请再试。",
+	"importfreeimages_owner": "作者",
+	"importfreeimages_importthis": "汇入这个",
+	"importfreeimages_next": "下一个 $1",
+	"importfreeimages_size_square": "方点",
+	"importfreeimages_size_thumbnail": "缩略图",
+	"importfreeimages_size_small": "小",
+	"importfreeimages_size_medium": "中",
+	"importfreeimages_size_large": "大",
+	"importfreeimages_size_original": "原始消息"
+}

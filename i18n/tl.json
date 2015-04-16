@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw"
+		]
+	},
+	"importfreeimages": "Mag-angkat ng malalayang mga larawan",
+	"importfreeimages-desc": "Nagbibigay ng isang paraan ng [[Special:ImportFreeImages|pagaangkat ng mga larawang may tamang paglalagay/pagbibigay ng lisensya]] mula sa [http://www.flickr.com flickr]",
+	"importfreeimages_description": "Nagpapahintulot sa iyo ang pahinang ito upang makapaghanap ng mga litratong nabigyan ng tamang lisensya mula sa ''flickr'' at angkatin ang mga ito papunta sa iyong wiki.",
+	"importfreeimages_nophotosfound": "Walang mga litratong natagpuan para sa iyong kauriang panghanap na '$1', pakisubok uli.",
+	"importfreeimages_owner": "May-akda",
+	"importfreeimages_importthis": "angkatin ito",
+	"importfreeimages_next": "Susunod na $1",
+	"importfreeimages_size_square": "Parisukat",
+	"importfreeimages_size_thumbnail": "Kagyat",
+	"importfreeimages_size_small": "Maliit",
+	"importfreeimages_size_medium": "Gitnang sukat",
+	"importfreeimages_size_large": "Malaki",
+	"importfreeimages_size_original": "Orihinal"
+}

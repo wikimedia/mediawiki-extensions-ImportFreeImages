@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"importfreeimages": "Importar d'Imatges Liures",
+	"importfreeimages-desc": "Provesís un mejan d’[[Special:ImportFreeImages|importar de fotografias pròpriament jos licéncia]] dempuèi flickr.",
+	"importfreeimages_description": "Aquesta pagina vos permet de recercar propriament d'imatges jos licéncias dempuèi flickr e de los importar dins vòstre wiki.",
+	"importfreeimages_nophotosfound": "Cap de fòto es pas estada trobada a partir de vòstres critèris de recèrcas '$1', ensajatz tornamai.",
+	"importfreeimages_owner": "Autor",
+	"importfreeimages_importthis": "l’importar",
+	"importfreeimages_next": "$1 seguents"
+}

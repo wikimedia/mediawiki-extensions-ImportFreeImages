@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Irwangatot",
+			"Kandar"
+		]
+	},
+	"importfreeimages": "Impor Gambar Bébas",
+	"importfreeimages-desc": "Muka jalan pikeun [[Special:ImportFreeImages|ngimpor poto-poto]] ti  [http://www.flickr.com flickr] anu lisénsina loyog.",
+	"importfreeimages_description": "Ieu kaca méré jalan ka anjeun pikeun nyiar poto-poto ti flickr anu lisénsina loyog sarta langsung diimpor ka wiki anjeun.",
+	"importfreeimages_nophotosfound": "Euweuh poto nu loyog jeung kriteria '$1', mangga cobian deui.",
+	"importfreeimages_owner": "Karya",
+	"importfreeimages_importthis": "impor ieu",
+	"importfreeimages_next": "$1 salajengna"
+}

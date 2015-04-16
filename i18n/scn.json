@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Melos",
+			"Santu"
+		]
+	},
+	"importfreeimages": "Metti mmàggini lìbbiri",
+	"importfreeimages-desc": "Prucura nu modu pi [[Special:ImportFreeImages|mpurtari futugràfìi câ licenza giusta ]] di [http://www.flickr.com flickr]",
+	"importfreeimages_description": "Sta pàggina ti pirmetti di circari mmàggini câ licenza giusta supr'a flickr e mpurtàrili ntâ tò wiki.",
+	"importfreeimages_nophotosfound": "Nudda futugrafìa suddisfa lu critèriu di circata $1', prova n'àutra vota.",
+	"importfreeimages_owner": "Auturi",
+	"importfreeimages_importthis": "mporta chistu",
+	"importfreeimages_next": "Succissivi $1"
+}

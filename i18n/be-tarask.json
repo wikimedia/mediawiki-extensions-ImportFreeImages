@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Jim-by"
+		]
+	},
+	"importfreeimages": "Імпарт вольных выяваў",
+	"importfreeimages-desc": "Дазваляе [[Special:ImportFreeImages|імпартаваць фатаграфіі, якія ліцэнзаваныя належным чынам]] з [http://www.flickr.com flickr]",
+	"importfreeimages_description": "Гэтая старонка дазваляе Вам шукаць адпаведным чынам ліцэнзаваныя фатаграфіі з flickr і імпартаваць іх у {{GRAMMAR:вінавальны|{{SITENAME}}}}.",
+	"importfreeimages_nophotosfound": "Ня знойдзена фатаграфіяў па Вашаму крытэру пошуку '$1', калі ласка, паспрабуйце яшчэ раз.",
+	"importfreeimages_owner": "Аўтар",
+	"importfreeimages_importthis": "імпартаваць гэта",
+	"importfreeimages_next": "Наступныя $1",
+	"importfreeimages_size_square": "Квадрат",
+	"importfreeimages_size_thumbnail": "Мініятура",
+	"importfreeimages_size_small": "Маленькі",
+	"importfreeimages_size_medium": "Сярэдні",
+	"importfreeimages_size_large": "Вялікі",
+	"importfreeimages_size_original": "Арыгінальны"
+}

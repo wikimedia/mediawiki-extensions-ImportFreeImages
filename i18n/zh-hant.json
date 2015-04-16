@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mark85296341",
+			"Tomchiukc",
+			"Wrightbus"
+		]
+	},
+	"importfreeimages": "匯入自由版權圖片",
+	"importfreeimages-desc": "為從[http://www.flickr.com flickr][[Special:ImportFreeImages|匯入有合適版權的相片]]提供方法",
+	"importfreeimages_description": "這頁面讓你可以從flickr找尋合適版權的相片，並匯入到你的圍紀內。",
+	"importfreeimages_nophotosfound": "沒有相片符合你提出的「$1」搜尋要求，請再試。",
+	"importfreeimages_owner": "作者",
+	"importfreeimages_importthis": "匯入這個",
+	"importfreeimages_next": "下一個 $1",
+	"importfreeimages_size_square": "方點",
+	"importfreeimages_size_thumbnail": "縮圖",
+	"importfreeimages_size_small": "小",
+	"importfreeimages_size_medium": "中",
+	"importfreeimages_size_large": "大",
+	"importfreeimages_size_original": "原始訊息"
+}

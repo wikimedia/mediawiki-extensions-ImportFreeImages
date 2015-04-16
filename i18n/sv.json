@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fluff",
+			"Lejonel",
+			"M.M.S.",
+			"Sannab",
+			"Sertion"
+		]
+	},
+	"importfreeimages": "Importera fria bilder",
+	"importfreeimages-desc": "Ger möjlighet att [[Special:ImportFreeImages|importera bilder med lämplig licens]] från [http://www.flickr.com flickr]",
+	"importfreeimages_description": "Denna sida låter dig söka efter bilder med riktig licens på Flickr och importera dem till din wiki.",
+	"importfreeimages_nophotosfound": "Inga bilder hittades för dina sökkriterier '$1', försök igen.",
+	"importfreeimages_owner": "Upphovsman",
+	"importfreeimages_importthis": "importera",
+	"importfreeimages_next": "Nästa $1",
+	"importfreeimages_size_square": "Kvadratisk",
+	"importfreeimages_size_thumbnail": "Miniatyr",
+	"importfreeimages_size_small": "Liten",
+	"importfreeimages_size_medium": "Medium",
+	"importfreeimages_size_large": "Stor",
+	"importfreeimages_size_original": "Original"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Htt",
+			"Kaustubh"
+		]
+	},
+	"importfreeimages": "मुक्त चित्रे मागवा",
+	"importfreeimages-desc": "[http://www.flickr.com फ्लिकर] वरील [[Special:ImportFreeImages|मुक्त चित्रे मागविण्याचा]] मार्ग",
+	"importfreeimages_description": "हे पान आपल्याला फ्लिकर वरील मुक्त चित्रे मागविण्याची तसेच त्यांना तुमच्या विकिमध्ये चढविण्याची सुविधा देते.",
+	"importfreeimages_nophotosfound": "'$1' ला जुळणारी छायाचित्रे सापडली नाहीत, कृपया पुन्हा प्रयत्न करा.",
+	"importfreeimages_owner": "लेखक",
+	"importfreeimages_importthis": "हे घ्या",
+	"importfreeimages_next": "पुढील $1",
+	"importfreeimages_size_square": "चौकोन",
+	"importfreeimages_size_thumbnail": "प्रारुप",
+	"importfreeimages_size_small": "छोटा",
+	"importfreeimages_size_medium": "मध्यम",
+	"importfreeimages_size_large": "मोठा",
+	"importfreeimages_size_original": "मूळ"
+}

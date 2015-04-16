@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"importfreeimages": "Увоз на слободни слики",
+	"importfreeimages-desc": "Овозможува начин на [[Special:ImportFreeImages|увезување на соодветно лиценцирани слики]] од [http://www.flickr.com flickr]",
+	"importfreeimages_description": "Оваа страница ви овозможува да пребарувате соодветно лиценцирани слики од Flickr и да ги увезувате во вашето вики.",
+	"importfreeimages_nophotosfound": "Нема пронајдено слики по вашиот критериум на пребарување „$1“. Обидете се повторно.",
+	"importfreeimages_owner": "Автор",
+	"importfreeimages_importthis": "увези го ова",
+	"importfreeimages_next": "Следен $1",
+	"importfreeimages_size_square": "Квадрат",
+	"importfreeimages_size_thumbnail": "Минијатура",
+	"importfreeimages_size_small": "Мала",
+	"importfreeimages_size_medium": "Средна",
+	"importfreeimages_size_large": "Голема",
+	"importfreeimages_size_original": "Изворна"
+}

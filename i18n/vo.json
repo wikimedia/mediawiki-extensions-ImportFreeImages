@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Malafaya",
+			"Smeira"
+		]
+	},
+	"importfreeimages": "Nüveigön magodis libik",
+	"importfreeimages-desc": "Mögükon [[Special:ImportFreeImages|nüveigi magodas labü däl pötik]] se [http://www.flickr.com flickr]",
+	"importfreeimages_description": "Pad at dälon ole ad sukön magodis labü däl pötik se el flickr ed ad nuveigön onis ini vük olik.",
+	"importfreeimages_nophotosfound": "Magods nonik petuvons ma sukaparamets: „$1“. Steifülolös nogna.",
+	"importfreeimages_owner": "Lautan",
+	"importfreeimages_importthis": "nüveigön atosi",
+	"importfreeimages_next": "Sököl $1"
+}

@@ -4,15 +4,12 @@
  *
  * @file
  * @ingroup Extensions
- * @version 2.0
+ * @version 2.1
  * @author Bryan Tong Minh <bryan.tongminh@gmail.com>
  * @author Travis Derouin <travis@wikihow.com>
  * @license http://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
  * @link http://www.mediawiki.org/wiki/Extension:ImportFreeImages Documentation
  */
-if ( !defined( 'MEDIAWIKI' ) ) {
-	die();
-}
 
 // Configuration settings
 $wgIFI_FlickrAPIKey = ''; // the flickr API key. This is required for the extension to work.
@@ -37,22 +34,21 @@ $wgExtensionCredits['specialpage'][] = array(
 	'path' => __FILE__,
 	'name' => 'ImportFreeImages',
 	'author' => array( 'Travis Derouin', 'Bryan Tong Minh' ),
-	'version' => '2.0',
+	'version' => '2.1',
 	'descriptionmsg' => 'importfreeimages-desc',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:ImportFreeImages',
 );
 
+// i18n
+$wgMessagesDirs['ImportFreeImages'] = __DIR__ . '/i18n';
+$wgExtensionMessagesFiles['ImportFreeImagesAlias'] = __DIR__ . '/ImportFreeImages.alias.php';
+
 // Set up the new special page
-$dir = dirname(__FILE__) . '/';
-$wgAutoloadClasses['ImportFreeImages'] = $dir . 'ImportFreeImages.body.php';
-$wgAutoloadClasses['SpecialImportFreeImages'] = $dir . 'SpecialImportFreeImages.php';
-$wgAutoloadClasses['UploadFreeImage'] = $dir . 'UploadFreeImage.php';
-$wgExtensionMessagesFiles['ImportFreeImages'] = $dir . 'ImportFreeImages.i18n.php';
-$wgExtensionMessagesFiles['ImportFreeImagesAlias'] = $dir . 'ImportFreeImages.alias.php';
+$wgAutoloadClasses['ImportFreeImages'] = __DIR__ . '/ImportFreeImages.body.php';
+$wgAutoloadClasses['SpecialImportFreeImages'] = __DIR__ . '/SpecialImportFreeImages.php';
+$wgAutoloadClasses['UploadFreeImage'] = __DIR__ . '/UploadFreeImage.php';
 
 $wgSpecialPages['ImportFreeImages'] = 'SpecialImportFreeImages';
-// Special page group for MW 1.13+
-$wgSpecialPageGroups['ImportFreeImages'] = 'media';
 
 // Upload hooks
 $wgHooks['UploadCreateFromRequest'][] = 'UploadFreeImage::onUploadCreateFromRequest';

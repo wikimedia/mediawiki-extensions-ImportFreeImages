@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aotake",
+			"Fryed-peach",
+			"Hosiryuhosi",
+			"青子守歌"
+		]
+	},
+	"importfreeimages": "フリーの画像をインポート",
+	"importfreeimages-desc": "[http://www.flickr.com Flickr] から[[Special:ImportFreeImages|適切にライセンスされた写真をインポートする]]手段を提供する",
+	"importfreeimages_description": "このページを使うと、Flickr で適切にライセンスされた画像を検索し、あなたのウィキにインポートすることができます。",
+	"importfreeimages_nophotosfound": "検索条件「$1」に適う写真は見つかりませんでした。もう一度試してください。",
+	"importfreeimages_owner": "著者",
+	"importfreeimages_importthis": "これをインポート",
+	"importfreeimages_next": "次の$1件",
+	"importfreeimages_size_square": "四角",
+	"importfreeimages_size_thumbnail": "サムネイル",
+	"importfreeimages_size_small": "小さい",
+	"importfreeimages_size_medium": "中",
+	"importfreeimages_size_large": "大",
+	"importfreeimages_size_original": "オリジナル"
+}

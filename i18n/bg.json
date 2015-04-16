@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"DCLXVI",
+			"Spiritia"
+		]
+	},
+	"importfreeimages": "Внасяне на свободни картинки",
+	"importfreeimages-desc": "Позволява [[Special:ImportFreeImages|внасянето на подходящо лицензирани картинки]] от [http://www.flickr.com flickr].",
+	"importfreeimages_description": "Тази страница позволява търсенето на подходящо лицензирани картинки от flickr и качването им в уикито.",
+	"importfreeimages_nophotosfound": "Не бяха открити резултати за търсенето ви по критерия '$1'. Моля, опитайте отново.",
+	"importfreeimages_owner": "Автор",
+	"importfreeimages_next": "Следващи $1"
+}

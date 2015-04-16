@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gazeb"
+		]
+	},
+	"importfreeimages_owner": "Автор",
+	"importfreeimages_importthis": "імпортовати тото",
+	"importfreeimages_next": "Далшых $1",
+	"importfreeimages_size_square": "Квадрат",
+	"importfreeimages_size_thumbnail": "Мініатура",
+	"importfreeimages_size_small": "Маленькый",
+	"importfreeimages_size_medium": "Середнїй",
+	"importfreeimages_size_large": "Великый",
+	"importfreeimages_size_original": "Оріґіналный"
+}

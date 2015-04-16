@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"LWChris",
+			"Raimond Spekking",
+			"Umherirrender"
+		]
+	},
+	"importfreeimages": "Import freier Bilder",
+	"importfreeimages-desc": "Ermöglicht den [[Special:ImportFreeImages|Import freier Bilder]] von [http://www.flickr.com Flickr]",
+	"importfreeimages_description": "Diese Seite erlaubt dir, in Flickr nach Bildern unter einer freien Lizenz zu suchen und diese in dein Wiki zu importieren.",
+	"importfreeimages_nophotosfound": "Es wurden keine Fotos mit den Suchkriterien „$1“ gefunden, bitte versuche es erneut.",
+	"importfreeimages_owner": "Urheber",
+	"importfreeimages_importthis": "importieren",
+	"importfreeimages_next": "Nächste $1",
+	"importfreeimages_size_square": "Quadrat",
+	"importfreeimages_size_thumbnail": "Vorschaubild",
+	"importfreeimages_size_small": "Klein",
+	"importfreeimages_size_medium": "Mittel",
+	"importfreeimages_size_large": "Groß",
+	"importfreeimages_size_original": "Original"
+}

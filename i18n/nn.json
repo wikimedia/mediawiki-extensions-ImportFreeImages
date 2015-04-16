@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Frokor",
+			"Jon Harald Søby",
+			"Nghtwlkr"
+		]
+	},
+	"importfreeimages": "Importer frie bilete",
+	"importfreeimages-desc": "Gjev høve til å [[Special:ImportFreeImages|importere frie bilete]] frå [http://flickr.com flickr]",
+	"importfreeimages_description": "Denne sida lar deg søke i bilete med riktig lisens på Flickr og importere dei til wikien din.",
+	"importfreeimages_nophotosfound": "Ingen bilete vart funne for søket «$1». Prøv igjen.",
+	"importfreeimages_owner": "Skapar",
+	"importfreeimages_importthis": "importer",
+	"importfreeimages_next": "Neste $1",
+	"importfreeimages_size_small": "Liten",
+	"importfreeimages_size_medium": "Middels",
+	"importfreeimages_size_large": "Stor",
+	"importfreeimages_size_original": "Original"
+}

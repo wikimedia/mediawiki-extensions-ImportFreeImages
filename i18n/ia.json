@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"importfreeimages": "Importar imagines libere",
+	"importfreeimages-desc": "Forni un modo de [[Special:ImportFreeImages|importar photos propriemente licentiate]] ab [http://www.flickr.com Flickr]",
+	"importfreeimages_description": "Iste pagina permitte cercar photos propriemente licentiate in Flickr e importar los in tu wiki.",
+	"importfreeimages_nophotosfound": "Nulle photo corresponde a tu criterios de recerca '$1'. Per favor reproba.",
+	"importfreeimages_owner": "Autor",
+	"importfreeimages_importthis": "importar isto",
+	"importfreeimages_next": "$1 {{PLURAL:$1|sequente|sequentes}}",
+	"importfreeimages_size_square": "Quadrate",
+	"importfreeimages_size_thumbnail": "Miniatura",
+	"importfreeimages_size_small": "Parve",
+	"importfreeimages_size_medium": "Medie",
+	"importfreeimages_size_large": "Grande",
+	"importfreeimages_size_original": "Original"
+}

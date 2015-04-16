@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen",
+			"Vinhtantran"
+		]
+	},
+	"importfreeimages": "Nhập khẩu hình tự do",
+	"importfreeimages-desc": "Là một cách để [[Special:ImportFreeImages|nhập khẩu những hình ảnh được cấp phép thích hợp]] từ [http://www.flickr.com Flickr]",
+	"importfreeimages_description": "Trang này cho phép bạn tìm những hình ảnh được cấp phép thích hợp từ Flickr và truyền chúng vào wiki của bạn.",
+	"importfreeimages_nophotosfound": "Không tìm thấy hình nào phù hợp với tiêu chí tìm kiếm ‘$1’ của bạn, xin hãy thử lại.",
+	"importfreeimages_owner": "Tác giả",
+	"importfreeimages_importthis": "nhập cái này",
+	"importfreeimages_next": "$1 sau",
+	"importfreeimages_size_square": "Vuông",
+	"importfreeimages_size_thumbnail": "Hình nhỏ",
+	"importfreeimages_size_small": "Nhỏ",
+	"importfreeimages_size_medium": "Vừa",
+	"importfreeimages_size_large": "Lớn",
+	"importfreeimages_size_original": "Nguyên bản"
+}

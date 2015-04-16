@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bennylin",
+			"Iwan Novirion",
+			"Rex"
+		]
+	},
+	"importfreeimages": "Impor gambar bebas",
+	"importfreeimages-desc": "Menambahkan halaman istimewa untuk [[Special:ImportFreeImages|mengimpor foto-foto dengan lisensi yang benar]] dari [http://www.flickr.com flickr]",
+	"importfreeimages_description": "Halaman ini mengizinkan Anda untuk mencari foto-foto dengan lisensi yang benar dan mengimpornya ke wiki Anda.",
+	"importfreeimages_nophotosfound": "Tidak ditemukan foto yang memenuhi kriteria pencarian '$1', silakan coba lagi.",
+	"importfreeimages_owner": "Pembuat",
+	"importfreeimages_importthis": "impor",
+	"importfreeimages_next": "$1 selanjutnya",
+	"importfreeimages_size_square": "Bujursangkar",
+	"importfreeimages_size_thumbnail": "Miniatur",
+	"importfreeimages_size_small": "Kecil",
+	"importfreeimages_size_medium": "Sedang",
+	"importfreeimages_size_large": "Besar",
+	"importfreeimages_size_original": "Asli"
+}

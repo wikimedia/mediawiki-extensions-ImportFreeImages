@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dani",
+			"Glanthor Reviol"
+		]
+	},
+	"importfreeimages": "Szabad képek importálása",
+	"importfreeimages-desc": "Lehetővé teszi a [[Special:ImportFreeImages|megfelelően licencelt képek importálását]] a [http://www.flickr.com flickr-ről]",
+	"importfreeimages_description": "Ez az oldal lehetővé teszi számodra megfelelően licencelt flickr képek keresését és importálását a wikidbe.",
+	"importfreeimages_nophotosfound": "Nem találtam a keresési feltételeidnek ($1) megfelelő képet, próbáld újra.",
+	"importfreeimages_owner": "Szerző",
+	"importfreeimages_importthis": "importálás",
+	"importfreeimages_next": "Következő $1",
+	"importfreeimages_size_square": "Négyzet alakú",
+	"importfreeimages_size_thumbnail": "Bélyegkép",
+	"importfreeimages_size_small": "Kicsi",
+	"importfreeimages_size_medium": "Közepes",
+	"importfreeimages_size_large": "Nagy",
+	"importfreeimages_size_original": "Eredeti"
+}

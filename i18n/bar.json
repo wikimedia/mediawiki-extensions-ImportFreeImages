@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Man77"
+		]
+	},
+	"importfreeimages": "Importian vu freie Büidln",
+	"importfreeimages_owner": "Autor",
+	"importfreeimages_importthis": "importian",
+	"importfreeimages_next": "d'nextn $1",
+	"importfreeimages_size_square": "Quadrat",
+	"importfreeimages_size_thumbnail": "Voaschaubüidl",
+	"importfreeimages_size_small": "kloa",
+	"importfreeimages_size_medium": "mittl",
+	"importfreeimages_size_large": "groß",
+	"importfreeimages_size_original": "original"
+}

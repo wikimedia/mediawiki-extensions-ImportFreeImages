@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Huji",
+			"Persianizer"
+		]
+	},
+	"importfreeimages": "وارد کردن تصاویر آزاد",
+	"importfreeimages-desc": "راهی برای [[Special:ImportFreeImages|وارد کردن تصاویر با اجازه‌نامهٔ مناسب]] از [http://www.flickr.com فلیکر] فراهم می‌آورد",
+	"importfreeimages_description": "این صفحه به شما اجازه می‌دهد که در فلیکر به دنبال تصاویر با اجازه‌نامهٔ مناسب بگردید و آن‌ها را در ویکی خود وارد کنید.",
+	"importfreeimages_nophotosfound": "صفحه‌ای برای عبارت جستجوی شما ('$1') پیدا نشد، لطفاً دوباره تلاش کنید.",
+	"importfreeimages_owner": "خالق",
+	"importfreeimages_importthis": "این را وارد کن",
+	"importfreeimages_next": "$1 بعدی",
+	"importfreeimages_size_square": "مربع",
+	"importfreeimages_size_thumbnail": "بندانگشتی",
+	"importfreeimages_size_small": "کوچک",
+	"importfreeimages_size_medium": "متوسط",
+	"importfreeimages_size_large": "بزرگ",
+	"importfreeimages_size_original": "اصلی"
+}

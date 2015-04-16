@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Holder"
+		]
+	},
+	"importfreeimages": "Freji Bilder importiere",
+	"importfreeimages-desc": "Macht  dr [[Special:ImportFreeImages|Import vu freje Bilder]] vu [http://www.flickr.com Flickr] megli",
+	"importfreeimages_description": "Die Syte erlaubt Dir, in Flickr no Bilder unter ere freje Lizänz z sueche un die derno in Dyy Wiki z importiere.",
+	"importfreeimages_nophotosfound": "S sin keini Foto mit dr Suechkriterie „$1“ gfunde wore.",
+	"importfreeimages_owner": "Autor",
+	"importfreeimages_importthis": "importiere",
+	"importfreeimages_next": "Negschti $1",
+	"importfreeimages_size_square": "Quadrat",
+	"importfreeimages_size_thumbnail": "Vorschaubild",
+	"importfreeimages_size_small": "Chlei",
+	"importfreeimages_size_medium": "Mittel",
+	"importfreeimages_size_large": "Groß",
+	"importfreeimages_size_original": "Orginal"
+}

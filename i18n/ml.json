@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shijualex"
+		]
+	},
+	"importfreeimages": "സൗജന്യ ചിത്രങ്ങൾ ഇറക്കുമതി ചെയ്യുക",
+	"importfreeimages_nophotosfound": "'$1' എന്ന തിരച്ചിൽ ക്രൈറ്റീയ ഉപയോഗിച്ച് ചിത്രങ്ങൾ ഒന്നും കണ്ടെത്താൻ കഴിഞ്ഞില്ല. ഒന്നു കൂടി ശ്രമിക്കൂ.",
+	"importfreeimages_owner": "ലേഖകൻ",
+	"importfreeimages_importthis": "ഇതു ഇറക്കുമതി ചെയ്യുക",
+	"importfreeimages_next": "അടുത്ത $1"
+}

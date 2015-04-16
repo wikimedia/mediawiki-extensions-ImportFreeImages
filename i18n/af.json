@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arnobarnard",
+			"Naudefj"
+		]
+	},
+	"importfreeimages": "Importeer vrye beelde",
+	"importfreeimages_owner": "Outeur",
+	"importfreeimages_importthis": "importeer hierdie",
+	"importfreeimages_next": "Volgende $1",
+	"importfreeimages_size_square": "Vierkant",
+	"importfreeimages_size_thumbnail": "Duimnael",
+	"importfreeimages_size_small": "Klein",
+	"importfreeimages_size_medium": "Medium",
+	"importfreeimages_size_large": "Groot",
+	"importfreeimages_size_original": "Oorspronklik"
+}

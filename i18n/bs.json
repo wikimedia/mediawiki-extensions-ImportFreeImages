@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"CERminator"
+		]
+	},
+	"importfreeimages": "Uvoz slobodnih slika",
+	"importfreeimages-desc": "Omogućuje način [[Special:ImportFreeImages|uvoza pravilno licenciranih slika]] sa [http://www.flickr.com flickr]",
+	"importfreeimages_description": "Ova stranica omogućava pretragu pravilno licenciranih slika sa flickr i njihov uvoz u Vaš wiki.",
+	"importfreeimages_nophotosfound": "Nije pronađena nijedna slika po Vašem upitu pretrage '$1', pokušajte ponovno.",
+	"importfreeimages_owner": "Autor",
+	"importfreeimages_importthis": "uvezi ovo",
+	"importfreeimages_next": "slijedeća $1",
+	"importfreeimages_size_square": "Kvadrat",
+	"importfreeimages_size_thumbnail": "Smanjeni pregled",
+	"importfreeimages_size_small": "Malo",
+	"importfreeimages_size_medium": "Srednja",
+	"importfreeimages_size_large": "Velika",
+	"importfreeimages_size_original": "Originalno"
+}

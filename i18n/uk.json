@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"AS",
+			"Aleksandrit",
+			"Prima klasy4na"
+		]
+	},
+	"importfreeimages": "Імпорт вільних зображень",
+	"importfreeimages-desc": "Дозволяє [[Special:ImportFreeImages|імпортувати ліцензовані належним чином фотографії]] з [http://www.flickr.com flickr]",
+	"importfreeimages_description": "Ця сторінка дозволяє вам шукати фотографії з Flickr, ліцензовані належним чином, та імпортувати їх до вікі.",
+	"importfreeimages_nophotosfound": "Не знайдено фотографій за умовою «$1», спробуйте ще раз.",
+	"importfreeimages_owner": "Автор",
+	"importfreeimages_importthis": "імпортувати це",
+	"importfreeimages_next": "Наступні $1",
+	"importfreeimages_size_square": "Квадрат",
+	"importfreeimages_size_thumbnail": "Мініатюра",
+	"importfreeimages_size_small": "Маленький",
+	"importfreeimages_size_medium": "Середній",
+	"importfreeimages_size_large": "Великий",
+	"importfreeimages_size_original": "Оригінальний"
+}

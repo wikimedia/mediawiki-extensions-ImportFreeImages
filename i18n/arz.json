@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Meno25"
+		]
+	},
+	"importfreeimages": "استيراد صور حرة",
+	"importfreeimages-desc": "يوفر طريقة [[Special:ImportFreeImages|لاستيراد صور مرخصة بشكل سليم]] من [http://www.flickr.com فليكر]",
+	"importfreeimages_description": "هذه الصفحة تسمح لك بالبحث فى الصور المرخصة جيدا من فليكر واستيرادها إلى الويكى الخاص بك.",
+	"importfreeimages_nophotosfound": "لا صور تم العثور عليها لمدخلة البحث الخاصة بك '$1'، من فضلك حاول مرة ثانية.",
+	"importfreeimages_owner": "المؤلف",
+	"importfreeimages_importthis": "استورد هذا",
+	"importfreeimages_next": "$1 التالي"
+}

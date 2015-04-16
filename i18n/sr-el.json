@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"importfreeimages": "Uvezi slobodne slike",
+	"importfreeimages_owner": "Autor",
+	"importfreeimages_importthis": "uvezi ovo",
+	"importfreeimages_next": "Sledeće $1",
+	"importfreeimages_size_square": "Kvadrat",
+	"importfreeimages_size_thumbnail": "Umanjeni prikaz",
+	"importfreeimages_size_small": "Mala",
+	"importfreeimages_size_medium": "Srednja",
+	"importfreeimages_size_large": "Velika",
+	"importfreeimages_size_original": "Originalna veličina"
+}

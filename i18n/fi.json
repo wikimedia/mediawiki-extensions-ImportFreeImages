@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Centerlink",
+			"Crt",
+			"Jack Phoenix",
+			"Silvonen"
+		]
+	},
+	"importfreeimages": "Tuo vapaita kuvia",
+	"importfreeimages-desc": "Mahdollistaa [[Special:ImportFreeImages|sopivasti lisensoitujen valokuvien tuonnin]] [http://www.flickr.com Flickristä].",
+	"importfreeimages_description": "Tämän sivun kautta pystyt etsimään asianomaisesti lisensoituja kuvia Flickrista ja tuomaan niitä wikiisi.",
+	"importfreeimages_nophotosfound": "Mikään kuva ei täsmää hakukriteeriisi '$1'. Yritä uudelleen.",
+	"importfreeimages_owner": "Tekijä",
+	"importfreeimages_importthis": "tuo tämä",
+	"importfreeimages_next": "Seuraavat $1",
+	"importfreeimages_size_square": "Neliö",
+	"importfreeimages_size_thumbnail": "Pienoiskuva",
+	"importfreeimages_size_small": "Pieni",
+	"importfreeimages_size_medium": "Keskikokoinen",
+	"importfreeimages_size_large": "Suuri",
+	"importfreeimages_size_original": "Alkuperäinen"
+}

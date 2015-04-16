@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pyt"
+		]
+	},
+	"importfreeimages": "Import fon fräie Bielden",
+	"importfreeimages-desc": "Moaket dän [[Special:ImportFreeImages|Import fon fräie Bielden]] muugelk fon [http://www.flickr.com Flickr]",
+	"importfreeimages_description": "Disse Siede ferlööwet die, ap Flickr ätter Bielden unner ne fräie Lizenz tou säiken un do in dien Wiki tou importierjen.",
+	"importfreeimages_nophotosfound": "Der wuuden neen Fotos mäd do Säikkriterien „$1“ fuunen.",
+	"importfreeimages_owner": "Autor",
+	"importfreeimages_importthis": "importierje",
+	"importfreeimages_next": "Naiste $1"
+}

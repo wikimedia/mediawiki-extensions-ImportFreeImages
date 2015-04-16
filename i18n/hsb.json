@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"importfreeimages": "Swobodne wobrazy importować",
+	"importfreeimages-desc": "Zmóžnja [[Special:ImportFreeImages|import wobrazow z prawej licencu]] z [http://www.flickr.com flickr]",
+	"importfreeimages_description": "Tuta strona ći dowola na Flickr za wobrazami z prihódnej ličencu pytać a je do swojeho wiki importować.",
+	"importfreeimages_nophotosfound": "Njejsu so žane fota za twoje pytanske kriterije \"$1\" namakali.",
+	"importfreeimages_owner": "Awtor",
+	"importfreeimages_importthis": "importować",
+	"importfreeimages_next": "Přichodny $1",
+	"importfreeimages_size_square": "Kwadrat",
+	"importfreeimages_size_thumbnail": "Wobrazk",
+	"importfreeimages_size_small": "Mały",
+	"importfreeimages_size_medium": "Srěni",
+	"importfreeimages_size_large": "Wulki",
+	"importfreeimages_size_original": "Originalny"
+}

@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chhorran",
+			"Thearith",
+			"គីមស៊្រុន",
+			"វ័ណថារិទ្ធ"
+		]
+	},
+	"importfreeimages": "នាំចូល រូបភាព សេរី",
+	"importfreeimages-desc": "ផ្ដល់នូវរបៀបមួយក្នុងការ[[Special:ImportFreeImages|នាំចូលរូបភាពដែលមានអាជ្ញាប័ណ្ណត្រឹមត្រូវ]] ពី [http://www.flickr.com flickr]",
+	"importfreeimages_description": "ទំព័រនេះផ្ដល់លទ្ឋភាពឱ្យអ្នកស្វែងរករូបភាពដែលមានអាជ្ញាប័ណ្ណត្រឹមត្រូវពី flickr ហើយនាំចូលពូកវាមកក្នុងវិគីរបស់អ្នក។",
+	"importfreeimages_nophotosfound": "គ្មាន​រូបថត​ត្រូវបានរកឃើញ​សម្រាប់ការ​ស្វែងរក '$1' របស់អ្នក សូមព្យាយាម​ម្តងទៀត។​",
+	"importfreeimages_owner": "អ្នកនិពន្ធ",
+	"importfreeimages_importthis": "នាំចូល នេះ",
+	"importfreeimages_next": "បន្ទាប់ $1",
+	"importfreeimages_size_thumbnail": "កូនរូបភាព",
+	"importfreeimages_size_small": "តូច",
+	"importfreeimages_size_medium": "មធ្យម",
+	"importfreeimages_size_large": "ធំ",
+	"importfreeimages_size_original": "ទំហំដើម"
+}

@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Antur",
+			"Crazymadlover",
+			"Drini",
+			"Imre",
+			"Translationista"
+		]
+	},
+	"importfreeimages": "Importar imágenes libres",
+	"importfreeimages-desc": "Provee una manera de [[Special:ImportFreeImages|importar adecuadamente fotografías licenciadas]] de [http://www.flickr.com flickr]",
+	"importfreeimages_description": "Esta página le permite buscar correctamente fotografías licensiadas de flickr e importarlas dentro de su wiki.",
+	"importfreeimages_nophotosfound": "Ninguna fotografía fue encontrada para sus criterios de búsqueda '$1', por favor intente nuevamente",
+	"importfreeimages_owner": "Autor",
+	"importfreeimages_importthis": "Importe esto",
+	"importfreeimages_next": "Próximo $1",
+	"importfreeimages_size_square": "Cuadrado",
+	"importfreeimages_size_thumbnail": "Miniatura",
+	"importfreeimages_size_small": "Pequeño",
+	"importfreeimages_size_medium": "Mediano",
+	"importfreeimages_size_large": "Grande",
+	"importfreeimages_size_original": "Original"
+}

@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joseph",
+			"Mach"
+		]
+	},
+	"importfreeimages": "Özgür resimleri içe aktar",
+	"importfreeimages-desc": "[http://www.flickr.com Flickr]'dan [[Special:ImportFreeImages|uygun lisanslanmış fotoğrafları içe aktarmak için]] bir yol sağlar.",
+	"importfreeimages_description": "Bu sayfa Flickr'dan uygun lisanslı fotoğrafları aramanıza ve vikinize aktarmanıza izin verir.",
+	"importfreeimages_nophotosfound": "Arama kriteriniz '$1' için hiçbir fotoğraf bulunamadı, lütfen tekrar deneyin.",
+	"importfreeimages_owner": "Yazar",
+	"importfreeimages_importthis": "bunu içe aktar",
+	"importfreeimages_next": "Sonraki $1",
+	"importfreeimages_size_square": "Kare",
+	"importfreeimages_size_thumbnail": "Küçük resim",
+	"importfreeimages_size_small": "Küçük",
+	"importfreeimages_size_medium": "Orta",
+	"importfreeimages_size_large": "Büyük",
+	"importfreeimages_size_original": "Orijinal"
+}
