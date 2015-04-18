@@ -4,10 +4,11 @@
 			"EugeneZelenko",
 			"Jon Harald Søby",
 			"Purodha",
-			"The Evil IP address"
+			"The Evil IP address",
+			"Shirayuki"
 		]
 	},
-	"importfreeimages-desc": "{{desc}}",
+	"importfreeimages-desc": "{{desc|name=Import Free Images|url=http://www.mediawiki.org/wiki/Extension:ImportFreeImages}}",
 	"importfreeimages_owner": "{{Identical|Author}}",
 	"importfreeimages_next": "{{Identical|Next $1}}",
 	"importfreeimages_size_thumbnail": "{{Identical|Thumbnail}}",
