@@ -5,6 +5,9 @@
 		]
 	},
 	"importfreeimages": "'Mborte immaggine libbere",
+	"importfreeimages-desc": "Dèje 'nu mode de [[Special:ImportFreeImages|'mbortazione de le fote probbiamende licenziate]] da [http://www.flickr.com flickr]",
+	"importfreeimages_description": "Sta pàgene te permette de cercà le fote probbiamende licenziate da flickr e 'mbortarle sus 'a uicchi toje.",
+	"importfreeimages_nophotosfound": "Nisciuna fote ha state acchiate pu criterie de ricerche '$1', pe piacere pruéve arrete.",
 	"importfreeimages_owner": "Autore",
 	"importfreeimages_importthis": "'mborte quiste",
 	"importfreeimages_next": "Prossime $1",
