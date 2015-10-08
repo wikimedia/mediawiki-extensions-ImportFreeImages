@@ -12,7 +12,7 @@
 	"importfreeimages": "Importar imágenes libres",
 	"importfreeimages-desc": "Provee una manera de [[Special:ImportFreeImages|importar fotografías adecuadamente licenciadas]] de [http://www.flickr.com flickr]",
 	"importfreeimages_description": "Esta página te permite buscar fotografías correctamente licensiadas de flickr, e importarlas a tu wiki.",
-	"importfreeimages_nophotosfound": "Ninguna fotografía fue encontrada para sus criterios de búsqueda '$1', por favor intente nuevamente",
+	"importfreeimages_nophotosfound": "No se encontró ninguna fotografía para tus criterios de búsqueda \"$1\". Inténtalo nuevamente.",
 	"importfreeimages_owner": "Autor",
 	"importfreeimages_importthis": "Importe esto",
 	"importfreeimages_next": "Próximo $1",
