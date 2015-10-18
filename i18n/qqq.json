@@ -5,14 +5,21 @@
 			"Jon Harald Søby",
 			"Purodha",
 			"The Evil IP address",
-			"Shirayuki"
+			"Shirayuki",
+			"Umherirrender"
 		]
 	},
+	"importfreeimages": "Used as title of [[Special:ImportFreeImages]]",
 	"importfreeimages-desc": "{{desc|name=Import Free Images|url=http://www.mediawiki.org/wiki/Extension:ImportFreeImages}}",
+	"importfreeimages_description": "Used as description on [[Special:ImportFreeImages]]",
+	"importfreeimages_nophotosfound": "Used as error message on [[Special:ImportFreeImages]]",
 	"importfreeimages_owner": "{{Identical|Author}}",
+	"importfreeimages_importthis": "Used as label of a link on [[Special:ImportFreeImages]]",
 	"importfreeimages_next": "{{Identical|Next $1}}",
+	"importfreeimages_size_square": "Used on [[Special:ImportFreeImages]]",
 	"importfreeimages_size_thumbnail": "{{Identical|Thumbnail}}",
 	"importfreeimages_size_small": "{{Identical|Small}}",
 	"importfreeimages_size_medium": "{{Identical|Medium}}",
-	"importfreeimages_size_large": "{{Identical|Large}}"
+	"importfreeimages_size_large": "{{Identical|Large}}",
+	"importfreeimages_size_original": "Used on [[Special:ImportFreeImages]]"
 }
