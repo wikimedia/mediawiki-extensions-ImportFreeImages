@@ -51,8 +51,7 @@ class SpecialImportFreeImages extends SpecialPage {
 
 		# Check blocks
 		if ( $user->isBlocked() ) {
-			$out->blockedPage();
-			return;
+			throw new UserBlockedError( $user->getBlock() );
 		}
 
 		# Show a message if the database is in read-only mode
