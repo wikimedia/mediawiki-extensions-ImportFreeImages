@@ -44,7 +44,7 @@ class SpecialImportFreeImages extends SpecialPage {
 			if ( !$user->isLoggedIn() ) {
 				$out->showErrorPage( 'uploadnologin', 'uploadnologintext' );
 			} else {
-				$out->permissionRequired( 'upload' );
+				throw new PermissionsError( 'upload' );
 			}
 			return;
 		}
