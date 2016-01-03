@@ -112,7 +112,7 @@ class SpecialImportFreeImages extends SpecialPage {
 		// TODO: get the right licenses
 		$photos = $ifi->searchPhotos( $q, $page );
 		if ( !$photos ) {
-			$out->addHTML( wfMsg( 'importfreeimages_nophotosfound', htmlspecialchars( $q ) ) );
+			$out->addHTML( $this->msg( 'importfreeimages_nophotosfound', $q )->escaped() );
 			return;
 		}
 
@@ -120,8 +120,8 @@ class SpecialImportFreeImages extends SpecialPage {
 
 		$specialUploadTitle = SpecialPage::getTitleFor( 'Upload' );
 
-		$ownermsg = wfMsg( 'importfreeimages_owner' );
-		$importmsg = wfMsg( 'importfreeimages_importthis' );
+		$ownermsg = $this->msg( 'importfreeimages_owner' )->text();
+		$importmsg = $this->msg( 'importfreeimages_importthis' )->text();
 		$i = 0;
 
 		foreach ( $photos['photo'] as $photo ) {
