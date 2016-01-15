@@ -9,6 +9,10 @@ class SpecialImportFreeImages extends SpecialPage {
 		parent::__construct( 'ImportFreeImages'/*class*/, 'upload'/*restriction*/ );
 	}
 
+	public function doesWrites() {
+		return true;
+	}
+
 	/**
 	 * Group this special page under the correct header on Special:SpecialPages.
 	 *
