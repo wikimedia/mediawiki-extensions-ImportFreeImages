@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wikitanvir"
+			"Wikitanvir",
+			"Bodhisattwa"
 		]
 	},
+	"importfreeimages": "মুক্ত চিত্রসমূহ আমদানি করুন",
 	"importfreeimages_owner": "প্রণেতা:",
 	"importfreeimages_importthis": "এটি আমদানি করো",
 	"importfreeimages_next": "পরবর্তী $1",
