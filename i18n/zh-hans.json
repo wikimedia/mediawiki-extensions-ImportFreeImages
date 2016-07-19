@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Liangent",
-			"PhiLiP"
+			"PhiLiP",
+			"Liuxinyu970226"
 		]
 	},
 	"importfreeimages": "汇入自由版权图片",
 	"importfreeimages-desc": "为从[http://www.flickr.com flickr][[Special:ImportFreeImages|汇入有合适版权的相片]]提供方法",
-	"importfreeimages_description": "这页面让你可以从flickr找寻合适版权的相片，并汇入到你的围纪内。",
+	"importfreeimages_description": "此页面允许您搜索来自flickr的适当授权的照片，并将它们导入至您的wiki中。",
 	"importfreeimages_nophotosfound": "没有相片符合你提出的「$1」搜寻要求，请再试。",
 	"importfreeimages_owner": "作者",
 	"importfreeimages_importthis": "汇入这个",
