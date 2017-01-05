@@ -10,7 +10,7 @@
 		]
 	},
 	"importfreeimages": "Used as title of [[Special:ImportFreeImages]]",
-	"importfreeimages-desc": "{{desc|name=Import Free Images|url=http://www.mediawiki.org/wiki/Extension:ImportFreeImages}}",
+	"importfreeimages-desc": "{{desc|name=Import Free Images|url=https://www.mediawiki.org/wiki/Extension:ImportFreeImages}}",
 	"importfreeimages_description": "Used as description on [[Special:ImportFreeImages]]",
 	"importfreeimages_nophotosfound": "Used as error message on [[Special:ImportFreeImages]]",
 	"importfreeimages_owner": "{{Identical|Author}}",
