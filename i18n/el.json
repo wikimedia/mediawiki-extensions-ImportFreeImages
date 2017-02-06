@@ -10,7 +10,7 @@
 	"importfreeimages": "Εισαγωγή ελεύθερων εικόνων",
 	"importfreeimages-desc": "Παρέχει έναν τρόπο [[Special:ImportFreeImages|εισαγωγής σωστά αδειοδοτημένων φωτογραφιών]] από το [http://www.flickr.com flickr]",
 	"importfreeimages_description": "Αυτή η σελίδα σας επιτρέπει να αναζητάτε σωστά αδειοδοτημένες φωτογραφίες από το flickr και να τις εισάγετε στο wiki σας.",
-	"importfreeimages_nophotosfound": "Δεν βρέθηκαν καθόλου φωτογραφίες για τα κριτήρια αναζήτησής σας '$1', παρακαλώ δοκιμάστε ξανά.",
+	"importfreeimages_nophotosfound": "Δεν βρέθηκαν φωτογραφίες για τα κριτήρια αναζήτησής σας «$1», παρακαλούμε δοκιμάστε ξανά.",
 	"importfreeimages_owner": "Δημιουργός",
 	"importfreeimages_importthis": "εισάγετε αυτό",
 	"importfreeimages_next": "Επόμενα $1",
