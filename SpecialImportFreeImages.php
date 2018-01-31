@@ -60,8 +60,7 @@ class SpecialImportFreeImages extends SpecialPage {
 
 		# Show a message if the database is in read-only mode
 		if ( wfReadOnly() ) {
-			$out->readOnlyPage();
-			return;
+			throw new ReadOnlyError;
 		}
 
 		# Do all magic
