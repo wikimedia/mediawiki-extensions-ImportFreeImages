@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dalibor Bosits"
+			"Dalibor Bosits",
+			"MaGa"
 		]
 	},
 	"importfreeimages": "Uvezi slobodne slike",
@@ -10,5 +11,5 @@
 	"importfreeimages_nophotosfound": "Za vaš traženi pojam '$1' nije pronađena ni jedna fotografija, molimo pokušajte ponovo.",
 	"importfreeimages_owner": "Autor",
 	"importfreeimages_importthis": "uvezi ovo",
-	"importfreeimages_next": "Slijedeće $1"
+	"importfreeimages_next": "Sljedeće $1"
 }
