@@ -76,7 +76,7 @@ class SpecialImportFreeImages extends SpecialPage {
 
 		$this->getOutput()->addHTML(
 			Html::rawElement( 'fieldset', array(),
-				Html::element( 'legend', array(), $this->msg( 'importfreeimages' )->escaped() ) . "\n" .
+				Html::element( 'legend', array(), $this->msg( 'importfreeimages' )->text() ) . "\n" .
 				$this->msg( 'importfreeimages_description' )->parse() . "\n" .
 				Html::rawElement( 'form', array( 'action' => $wgScript ),
 					Html::element( 'input', array(
@@ -92,7 +92,7 @@ class SpecialImportFreeImages extends SpecialPage {
 					) ) . "\n" .
 					Html::element( 'input', array(
 						'type' => 'submit',
-						'value' => $this->msg( 'search' )->escaped()
+						'value' => $this->msg( 'search' )->text()
 					) )
 				)
 		) );
@@ -123,8 +123,8 @@ class SpecialImportFreeImages extends SpecialPage {
 
 		$specialUploadTitle = SpecialPage::getTitleFor( 'Upload' );
 
-		$ownermsg = $this->msg( 'importfreeimages_owner' )->text();
-		$importmsg = $this->msg( 'importfreeimages_importthis' )->text();
+		$ownermsg = $this->msg( 'importfreeimages_owner' )->escaped();
+		$importmsg = $this->msg( 'importfreeimages_importthis' )->escaped();
 		$i = 0;
 
 		foreach ( $photos['photo'] as $photo ) {
