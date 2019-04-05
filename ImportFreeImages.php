@@ -8,7 +8,7 @@
  * @author Bryan Tong Minh <bryan.tongminh@gmail.com>
  * @author Travis Derouin <travis@wikihow.com>
  * @license http://www.gnu.org/copyleft/gpl.html GNU General Public License 2.0 or later
- * @link http://www.mediawiki.org/wiki/Extension:ImportFreeImages Documentation
+ * @link https://www.mediawiki.org/wiki/Extension:ImportFreeImages Documentation
  */
 
 // Configuration settings
