@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"CERminator"
+			"CERminator",
+			"Obsuser"
 		]
 	},
 	"importfreeimages": "Uvoz slobodnih slika",
@@ -10,7 +11,7 @@
 	"importfreeimages_nophotosfound": "Nije pronađena nijedna slika po Vašem upitu pretrage '$1', pokušajte ponovno.",
 	"importfreeimages_owner": "Autor",
 	"importfreeimages_importthis": "uvezi ovo",
-	"importfreeimages_next": "slijedeća $1",
+	"importfreeimages_next": "sljedeća $1",
 	"importfreeimages_size_square": "Kvadrat",
 	"importfreeimages_size_thumbnail": "Smanjeni pregled",
 	"importfreeimages_size_small": "Malo",
