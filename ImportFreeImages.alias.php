@@ -188,6 +188,16 @@ $specialPageAliases['sk'] = array(
 	'ImportFreeImages' => array( 'ImportSlobodnýchObrázkov' ),
 );
 
+/** Serbian Cyrillic (српски (ћирилица)) */
+$specialPageAliases['sr-ec'] = array(
+	'ImportFreeImages' => array( 'УвозСлободнихСлика', 'Увоз_слободних_слика' ),
+);
+
+/** Serbian Latin (srpski (latinica)) */
+$specialPageAliases['sr-el'] = array(
+	'ImportFreeImages' => array( 'UvozSlobodnihSlika', 'Uvoz_slobodnih_slika' ),
+);
+
 /** Albanian (shqip) */
 $specialPageAliases['sq'] = array(
 	'ImportFreeImages' => array( 'ImportoFiguraFalas' ),
