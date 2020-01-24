@@ -23,9 +23,9 @@
 		"ImportFreeImagesAlias": "ImportFreeImages.alias.php"
 	},
 	"AutoloadClasses": {
-		"ImportFreeImages": "ImportFreeImages.body.php",
-		"SpecialImportFreeImages": "SpecialImportFreeImages.php",
-		"UploadFreeImage": "UploadFreeImage.php"
+		"ImportFreeImages": "includes/ImportFreeImages.php",
+		"SpecialImportFreeImages": "includes/specials/SpecialImportFreeImages.php",
+		"UploadFreeImage": "includes/UploadFreeImage.php"
 	},
 	"Hooks": {
 		"UploadCreateFromRequest": "UploadFreeImage::onUploadCreateFromRequest",
