@@ -6,224 +6,224 @@
  * @ingroup Extensions
  */
 
-$specialPageAliases = array();
+$specialPageAliases = [];
 
 /** English (English) */
-$specialPageAliases['en'] = array(
-	'ImportFreeImages' => array( 'ImportFreeImages' ),
-);
+$specialPageAliases['en'] = [
+	'ImportFreeImages' => [ 'ImportFreeImages' ],
+];
 
 /** Arabic (العربية) */
-$specialPageAliases['ar'] = array(
-	'ImportFreeImages' => array( 'استيراد_صور_حرة' ),
-);
+$specialPageAliases['ar'] = [
+	'ImportFreeImages' => [ 'استيراد_صور_حرة' ],
+];
 
 /** Egyptian Spoken Arabic (مصرى) */
-$specialPageAliases['arz'] = array(
-	'ImportFreeImages' => array( 'استوراد_صور_حره' ),
-);
+$specialPageAliases['arz'] = [
+	'ImportFreeImages' => [ 'استوراد_صور_حره' ],
+];
 
 /** Assamese (অসমীয়া) */
-$specialPageAliases['as'] = array(
-	'ImportFreeImages' => array( 'মুক্ত_চিত্ৰ_আমদানি' ),
-);
+$specialPageAliases['as'] = [
+	'ImportFreeImages' => [ 'মুক্ত_চিত্ৰ_আমদানি' ],
+];
 
 /** Breton (brezhoneg) */
-$specialPageAliases['br'] = array(
-	'ImportFreeImages' => array( 'EnporzhiañSkeudennoùFrank' ),
-);
+$specialPageAliases['br'] = [
+	'ImportFreeImages' => [ 'EnporzhiañSkeudennoùFrank' ],
+];
 
 /** Bosnian (bosanski) */
-$specialPageAliases['bs'] = array(
-	'ImportFreeImages' => array( 'UvozSlobodnihSlika' ),
-);
+$specialPageAliases['bs'] = [
+	'ImportFreeImages' => [ 'UvozSlobodnihSlika' ],
+];
 
 /** German (Deutsch) */
-$specialPageAliases['de'] = array(
-	'ImportFreeImages' => array( 'Freie_Bilder_importieren' ),
-);
+$specialPageAliases['de'] = [
+	'ImportFreeImages' => [ 'Freie_Bilder_importieren' ],
+];
 
 /** Zazaki (Zazaki) */
-$specialPageAliases['diq'] = array(
-	'ImportFreeImages' => array( 'ResimanêXoseraTeberde' ),
-);
+$specialPageAliases['diq'] = [
+	'ImportFreeImages' => [ 'ResimanêXoseraTeberde' ],
+];
 
 /** Lower Sorbian (dolnoserbski) */
-$specialPageAliases['dsb'] = array(
-	'ImportFreeImages' => array( 'Liche_wobraze_importěrowaś' ),
-);
+$specialPageAliases['dsb'] = [
+	'ImportFreeImages' => [ 'Liche_wobraze_importěrowaś' ],
+];
 
 /** Persian (فارسی) */
-$specialPageAliases['fa'] = array(
-	'ImportFreeImages' => array( 'درون‌ریزی_تصاویر_آزاد' ),
-);
+$specialPageAliases['fa'] = [
+	'ImportFreeImages' => [ 'درون‌ریزی_تصاویر_آزاد' ],
+];
 
 /** Finnish (suomi) */
-$specialPageAliases['fi'] = array(
-	'ImportFreeImages' => array( 'Tuo_vapaita_kuvia' ),
-);
+$specialPageAliases['fi'] = [
+	'ImportFreeImages' => [ 'Tuo_vapaita_kuvia' ],
+];
 
 /** French (français) */
-$specialPageAliases['fr'] = array(
-	'ImportFreeImages' => array( 'ImporterImagesLibres' ),
-);
+$specialPageAliases['fr'] = [
+	'ImportFreeImages' => [ 'ImporterImagesLibres' ],
+];
 
 /** Franco-Provençal (arpetan) */
-$specialPageAliases['frp'] = array(
-	'ImportFreeImages' => array( 'Importar_des_émâges_libres', 'ImportarDesÉmâgesLibres' ),
-);
+$specialPageAliases['frp'] = [
+	'ImportFreeImages' => [ 'Importar_des_émâges_libres', 'ImportarDesÉmâgesLibres' ],
+];
 
 /** Galician (galego) */
-$specialPageAliases['gl'] = array(
-	'ImportFreeImages' => array( 'Importar_imaxes_libres' ),
-);
+$specialPageAliases['gl'] = [
+	'ImportFreeImages' => [ 'Importar_imaxes_libres' ],
+];
 
 /** Swiss German (Alemannisch) */
-$specialPageAliases['gsw'] = array(
-	'ImportFreeImages' => array( 'Freji_Bilder_importiere' ),
-);
+$specialPageAliases['gsw'] = [
+	'ImportFreeImages' => [ 'Freji_Bilder_importiere' ],
+];
 
 /** Upper Sorbian (hornjoserbsce) */
-$specialPageAliases['hsb'] = array(
-	'ImportFreeImages' => array( 'Swobodne_wobrazy_importować' ),
-);
+$specialPageAliases['hsb'] = [
+	'ImportFreeImages' => [ 'Swobodne_wobrazy_importować' ],
+];
 
 /** Haitian (Kreyòl ayisyen) */
-$specialPageAliases['ht'] = array(
-	'ImportFreeImages' => array( 'EnpòteImajLib' ),
-);
+$specialPageAliases['ht'] = [
+	'ImportFreeImages' => [ 'EnpòteImajLib' ],
+];
 
 /** Hungarian (magyar) */
-$specialPageAliases['hu'] = array(
-	'ImportFreeImages' => array( 'Szabad_képek_importálása' ),
-);
+$specialPageAliases['hu'] = [
+	'ImportFreeImages' => [ 'Szabad_képek_importálása' ],
+];
 
 /** Interlingua (interlingua) */
-$specialPageAliases['ia'] = array(
-	'ImportFreeImages' => array( 'Importar_imagines_libere' ),
-);
+$specialPageAliases['ia'] = [
+	'ImportFreeImages' => [ 'Importar_imagines_libere' ],
+];
 
 /** Indonesian (Bahasa Indonesia) */
-$specialPageAliases['id'] = array(
-	'ImportFreeImages' => array( 'Impor_gambar_gratis', 'ImporGambarGratis' ),
-);
+$specialPageAliases['id'] = [
+	'ImportFreeImages' => [ 'Impor_gambar_gratis', 'ImporGambarGratis' ],
+];
 
 /** Italian (italiano) */
-$specialPageAliases['it'] = array(
-	'ImportFreeImages' => array( 'ImportaImmaginiLibere' ),
-);
+$specialPageAliases['it'] = [
+	'ImportFreeImages' => [ 'ImportaImmaginiLibere' ],
+];
 
 /** Japanese (日本語) */
-$specialPageAliases['ja'] = array(
-	'ImportFreeImages' => array( 'フリー画像のインポート', 'フリーの画像をインポート' ),
-);
+$specialPageAliases['ja'] = [
+	'ImportFreeImages' => [ 'フリー画像のインポート', 'フリーの画像をインポート' ],
+];
 
 /** Korean (한국어) */
-$specialPageAliases['ko'] = array(
-	'ImportFreeImages' => array( '자유그림가져오기' ),
-);
+$specialPageAliases['ko'] = [
+	'ImportFreeImages' => [ '자유그림가져오기' ],
+];
 
 /** Colognian (Ripoarisch) */
-$specialPageAliases['ksh'] = array(
-	'ImportFreeImages' => array( 'Frei_Bellder_Empotteere', 'FreiBellderEmpotteere' ),
-);
+$specialPageAliases['ksh'] = [
+	'ImportFreeImages' => [ 'Frei_Bellder_Empotteere', 'FreiBellderEmpotteere' ],
+];
 
 /** Ladino (Ladino) */
-$specialPageAliases['lad'] = array(
-	'ImportFreeImages' => array( 'AktarearArientoFotografíasLíbberos' ),
-);
+$specialPageAliases['lad'] = [
+	'ImportFreeImages' => [ 'AktarearArientoFotografíasLíbberos' ],
+];
 
 /** Luxembourgish (Lëtzebuergesch) */
-$specialPageAliases['lb'] = array(
-	'ImportFreeImages' => array( 'Fräi_Biller_importéieren' ),
-);
+$specialPageAliases['lb'] = [
+	'ImportFreeImages' => [ 'Fräi_Biller_importéieren' ],
+];
 
 /** Macedonian (македонски) */
-$specialPageAliases['mk'] = array(
-	'ImportFreeImages' => array( 'УвозНаСлободниСлики' ),
-);
+$specialPageAliases['mk'] = [
+	'ImportFreeImages' => [ 'УвозНаСлободниСлики' ],
+];
 
 /** Malayalam (മലയാളം) */
-$specialPageAliases['ml'] = array(
-	'ImportFreeImages' => array( 'സ്വതന്ത്രചിത്രങ്ങളിറക്കുമതിചെയ്യുക' ),
-);
+$specialPageAliases['ml'] = [
+	'ImportFreeImages' => [ 'സ്വതന്ത്രചിത്രങ്ങളിറക്കുമതിചെയ്യുക' ],
+];
 
 /** Marathi (मराठी) */
-$specialPageAliases['mr'] = array(
-	'ImportFreeImages' => array( 'मुक्तचित्रेआयात' ),
-);
+$specialPageAliases['mr'] = [
+	'ImportFreeImages' => [ 'मुक्तचित्रेआयात' ],
+];
 
 /** Norwegian Bokmål (norsk (bokmål)‎) */
-$specialPageAliases['nb'] = array(
-	'ImportFreeImages' => array( 'Importer_frie_bilder' ),
-);
+$specialPageAliases['nb'] = [
+	'ImportFreeImages' => [ 'Importer_frie_bilder' ],
+];
 
 /** Nedersaksisch (Nedersaksisch) */
-$specialPageAliases['nds-nl'] = array(
-	'ImportFreeImages' => array( 'Vrieje_aofbeeldingen_invoeren' ),
-);
+$specialPageAliases['nds-nl'] = [
+	'ImportFreeImages' => [ 'Vrieje_aofbeeldingen_invoeren' ],
+];
 
 /** Dutch (Nederlands) */
-$specialPageAliases['nl'] = array(
-	'ImportFreeImages' => array( 'VrijeAfbeeldingenImporteren' ),
-);
+$specialPageAliases['nl'] = [
+	'ImportFreeImages' => [ 'VrijeAfbeeldingenImporteren' ],
+];
 
 /** Occitan (occitan) */
-$specialPageAliases['oc'] = array(
-	'ImportFreeImages' => array( 'ImportarImatgesLiures' ),
-);
+$specialPageAliases['oc'] = [
+	'ImportFreeImages' => [ 'ImportarImatgesLiures' ],
+];
 
 /** Portuguese (português) */
-$specialPageAliases['pt'] = array(
-	'ImportFreeImages' => array( 'Importar_imagens_de_acesso_livre' ),
-);
+$specialPageAliases['pt'] = [
+	'ImportFreeImages' => [ 'Importar_imagens_de_acesso_livre' ],
+];
 
 /** Sanskrit (संस्कृतम्) */
-$specialPageAliases['sa'] = array(
-	'ImportFreeImages' => array( 'आयातमुक्तछायाचित्र' ),
-);
+$specialPageAliases['sa'] = [
+	'ImportFreeImages' => [ 'आयातमुक्तछायाचित्र' ],
+];
 
 /** Slovak (slovenčina) */
-$specialPageAliases['sk'] = array(
-	'ImportFreeImages' => array( 'ImportSlobodnýchObrázkov' ),
-);
+$specialPageAliases['sk'] = [
+	'ImportFreeImages' => [ 'ImportSlobodnýchObrázkov' ],
+];
 
 /** Serbian Cyrillic (српски (ћирилица)) */
-$specialPageAliases['sr-ec'] = array(
-	'ImportFreeImages' => array( 'УвозСлободнихСлика', 'Увоз_слободних_слика' ),
-);
+$specialPageAliases['sr-ec'] = [
+	'ImportFreeImages' => [ 'УвозСлободнихСлика', 'Увоз_слободних_слика' ],
+];
 
 /** Serbian Latin (srpski (latinica)) */
-$specialPageAliases['sr-el'] = array(
-	'ImportFreeImages' => array( 'UvozSlobodnihSlika', 'Uvoz_slobodnih_slika' ),
-);
+$specialPageAliases['sr-el'] = [
+	'ImportFreeImages' => [ 'UvozSlobodnihSlika', 'Uvoz_slobodnih_slika' ],
+];
 
 /** Albanian (shqip) */
-$specialPageAliases['sq'] = array(
-	'ImportFreeImages' => array( 'ImportoFiguraFalas' ),
-);
+$specialPageAliases['sq'] = [
+	'ImportFreeImages' => [ 'ImportoFiguraFalas' ],
+];
 
 /** Swedish (svenska) */
-$specialPageAliases['sv'] = array(
-	'ImportFreeImages' => array( 'Importera_fria_bilder' ),
-);
+$specialPageAliases['sv'] = [
+	'ImportFreeImages' => [ 'Importera_fria_bilder' ],
+];
 
 /** Swahili (Kiswahili) */
-$specialPageAliases['sw'] = array(
-	'ImportFreeImages' => array( 'IngizaPichaHuria' ),
-);
+$specialPageAliases['sw'] = [
+	'ImportFreeImages' => [ 'IngizaPichaHuria' ],
+];
 
 /** Tagalog (Tagalog) */
-$specialPageAliases['tl'] = array(
-	'ImportFreeImages' => array( 'Mag-angkat_ng_malayang_mga_larawan' ),
-);
+$specialPageAliases['tl'] = [
+	'ImportFreeImages' => [ 'Mag-angkat_ng_malayang_mga_larawan' ],
+];
 
 /** Turkish (Türkçe) */
-$specialPageAliases['tr'] = array(
-	'ImportFreeImages' => array( 'ÖzgürResimAktar', 'ÖzgürResimİçeAktar' ),
-);
+$specialPageAliases['tr'] = [
+	'ImportFreeImages' => [ 'ÖzgürResimAktar', 'ÖzgürResimİçeAktar' ],
+];
 
 /** Simplified Chinese (中文（简体）‎) */
-$specialPageAliases['zh-hans'] = array(
-	'ImportFreeImages' => array( '导入自由图像' ),
-);
+$specialPageAliases['zh-hans'] = [
+	'ImportFreeImages' => [ '导入自由图像' ],
+];

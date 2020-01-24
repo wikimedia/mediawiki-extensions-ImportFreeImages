@@ -61,7 +61,7 @@ class ImportFreeImages {
 
 		$this->suppressStrictWarnings();
 
-		require_once( $this->phpFlickrFile );
+		require_once $this->phpFlickrFile;
 		if ( !$this->apiKey ) {
 			throw new MWException( 'No Flickr API key found' );
 		}
@@ -80,14 +80,14 @@ class ImportFreeImages {
 	public function searchPhotos( $query, $page ) {
 		$this->suppressStrictWarnings();
 		$result = $this->flickr->photos_search(
-			array(
+			[
 				$this->searchBy => $query,
 				'tag_mode' => 'any',
 				'page' => $page,
 				'per_page' => $this->resultsPerPage,
 				'license' => implode( ',', $this->licenses ),
 				'sort' => $this->sortBy,
-			)
+			]
 		);
 		$this->restoreStrictWarnings();
 

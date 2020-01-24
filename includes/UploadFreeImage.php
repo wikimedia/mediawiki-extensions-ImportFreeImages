@@ -20,7 +20,9 @@ class UploadFreeImage extends UploadFromUrl {
 	/**
 	 * By installing this extension it is unconditionally enabled
 	 */
-	public static function isEnabled() { return true; }
+	public static function isEnabled() {
+		return true;
+	}
 
 	/**
 	 * A valid request requires wpFlickrId to be set
@@ -36,7 +38,7 @@ class UploadFreeImage extends UploadFromUrl {
 	public function initializeFromRequest( &$request ) {
 		return $this->initialize(
 			$request->getText( 'wpDestFile' ),
-	 		self::getUrl( $request->getText( 'wpFlickrId' ), $request->getText( 'wpSize' ) ),
+			self::getUrl( $request->getText( 'wpFlickrId' ), $request->getText( 'wpSize' ) ),
 			false
 		);
 	}
@@ -74,8 +76,7 @@ class UploadFreeImage extends UploadFromUrl {
 		if (
 			$wgRequest->getVal( 'wpSourceType' ) != 'IFI' ||
 			!$wgRequest->getCheck( 'wpFlickrId' )
-		)
-		{
+		) {
 			return true;
 		}
 
@@ -90,28 +91,28 @@ class UploadFreeImage extends UploadFromUrl {
 		$sizes = $ifi->getSizes( $wgRequest->getText( 'wpFlickrId' ) );
 
 		// Create radio buttons. TODO: Show resolution; Make largest size default
-		$options = array();
+		$options = [];
 		foreach ( $sizes as $size ) {
 			$label = wfMessage( 'importfreeimages_size_' . strtolower( $size['label'] ) )->parse();
 			$options[$label] = $size['label'];
 		}
 
-		$descriptor['Size'] = array(
+		$descriptor['Size'] = [
 			'type' => 'radio',
 			'section' => 'source',
 			'name' => 'Size',
 			'options' => $options
-		);
-		$descriptor['wpFlickrId'] = array(
+		];
+		$descriptor['wpFlickrId'] = [
 			'type' => 'hidden',
 			'name' => 'wpFlickrId',
 			'default' => $wgRequest->getText( 'wpFlickrId' ),
-		);
-		$descriptor['wpSourceType'] = array(
+		];
+		$descriptor['wpSourceType'] = [
 			'type' => 'hidden',
 			'name' => 'wpSourceType',
 			'default' => 'IFI',
-		);
+		];
 
 		// Stop running further hooks
 		return false;
@@ -123,8 +124,7 @@ class UploadFreeImage extends UploadFromUrl {
 		if (
 			$wgRequest->getVal( 'wpSourceType' ) != 'IFI' ||
 			!$wgRequest->getCheck( 'wpFlickrId' )
-		)
-		{
+		) {
 			return true;
 		}
 

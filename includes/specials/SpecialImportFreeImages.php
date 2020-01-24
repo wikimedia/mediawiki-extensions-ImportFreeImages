@@ -75,25 +75,25 @@ class SpecialImportFreeImages extends SpecialPage {
 		global $wgScript;
 
 		$this->getOutput()->addHTML(
-			Html::rawElement( 'fieldset', array(),
-				Html::element( 'legend', array(), $this->msg( 'importfreeimages' )->text() ) . "\n" .
+			Html::rawElement( 'fieldset', [],
+				Html::element( 'legend', [], $this->msg( 'importfreeimages' )->text() ) . "\n" .
 				$this->msg( 'importfreeimages_description' )->parse() . "\n" .
-				Html::rawElement( 'form', array( 'action' => $wgScript ),
-					Html::element( 'input', array(
+				Html::rawElement( 'form', [ 'action' => $wgScript ],
+					Html::element( 'input', [
 						'type' => 'hidden',
 						'name' => 'title',
 						'value' => $this->getPageTitle()->getPrefixedText(),
-					) ) . "\n" .
-					Html::element( 'input', array(
+					] ) . "\n" .
+					Html::element( 'input', [
 						'type' => 'text',
 						'name' => 'q',
 						'size' => '40',
 						'value' => $this->getRequest()->getText( 'q' ),
-					) ) . "\n" .
-					Html::element( 'input', array(
+					] ) . "\n" .
+					Html::element( 'input', [
 						'type' => 'submit',
 						'value' => $this->msg( 'search' )->text()
-					) )
+					] )
 				)
 		) );
 	}
@@ -135,10 +135,10 @@ class SpecialImportFreeImages extends SpecialPage {
 			$title_esc = htmlspecialchars( $photo['title'], ENT_QUOTES );
 			$username_esc = htmlspecialchars( $owner['username'], ENT_QUOTES );
 			$thumb_esc = htmlspecialchars( "http://farm{$photo['farm']}.static.flickr.com/{$photo['server']}/{$photo['id']}_{$photo['secret']}_{$ifi->thumbType}.jpg", ENT_QUOTES );
-			$link = htmlspecialchars( $specialUploadTitle->getLocalURL( array(
+			$link = htmlspecialchars( $specialUploadTitle->getLocalURL( [
 				'wpSourceType' => 'IFI',
 				'wpFlickrId' => $photo['id']
-			) ), ENT_QUOTES );
+			] ), ENT_QUOTES );
 
 			if ( $i % $ifi->resultsPerRow == 0 ) {
 				$out->addHTML( '<tr>' );
@@ -168,8 +168,8 @@ class SpecialImportFreeImages extends SpecialPage {
 			$out->addHTML( '<br />' . Linker::link(
 				$this->getPageTitle(),
 				$this->msg( 'importfreeimages_next', $ifi->resultsPerPage )->escaped(),
-				array(),
-				array( 'p' => $page, 'q' => $q )
+				[],
+				[ 'p' => $page, 'q' => $q ]
 			) );
 		}
 	}
