@@ -1,0 +1,74 @@
+{
+	"name": "ImportFreeImages",
+	"version": "2.2",
+	"author": [
+		"Travis Derouin",
+		"Bryan Tong Minh"
+	],
+	"url": "https://www.mediawiki.org/wiki/Extension:ImportFreeImages",
+	"descriptionmsg": "importfreeimages-desc",
+	"type": "specialpage",
+	"requires": {
+		"MediaWiki": ">= 1.29.0"
+	},
+	"SpecialPages": {
+		"ImportFreeImages": "SpecialImportFreeImages"
+	},
+	"MessagesDirs": {
+		"ImportFreeImages": [
+			"i18n"
+		]
+	},
+	"ExtensionMessagesFiles": {
+		"ImportFreeImagesAlias": "ImportFreeImages.alias.php"
+	},
+	"AutoloadClasses": {
+		"ImportFreeImages": "ImportFreeImages.body.php",
+		"SpecialImportFreeImages": "SpecialImportFreeImages.php",
+		"UploadFreeImage": "UploadFreeImage.php"
+	},
+	"Hooks": {
+		"UploadCreateFromRequest": "UploadFreeImage::onUploadCreateFromRequest",
+		"UploadFormSourceDescriptors": "UploadFreeImage::onUploadFormSourceDescriptors",
+		"UploadFormInitDescriptor": "UploadFreeImage::onUploadFormInitDescriptor"
+	},
+	"config": {
+		"IFI_FlickrAPIKey": {
+			"value": ""
+		},
+		"IFI_CreditsTemplate": {
+			"value": "flickr"
+		},
+		"IFI_GetOriginal": {
+			"value": true
+		},
+		"IFI_PromptForFilename": {
+			"value": true
+		},
+		"IFI_phpFlickr": {
+			"value": "phpFlickr-2.2.0/phpFlickr.php"
+		},
+		"IFI_ResultsPerPage": {
+			"value": 20
+		},
+		"IFI_ResultsPerRow": {
+			"value": 4
+		},
+		"IFI_FlickrLicense": {
+			"value": "4,5"
+		},
+		"IFI_FlickrSort": {
+			"value": "interestingness-desc"
+		},
+		"IFI_FlickrSearchBy": {
+			"value": "tags"
+		},
+		"IFI_AppendRandomNumber": {
+			"value": true
+		},
+		"IFI_ThumbType": {
+			"value": "t"
+		}
+	},
+	"manifest_version": 2
+}
