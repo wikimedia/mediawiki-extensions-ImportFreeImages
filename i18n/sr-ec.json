@@ -3,10 +3,14 @@
 		"authors": [
 			"Rancher",
 			"Verlor",
-			"Михајло Анђелковић"
+			"Михајло Анђелковић",
+			"BadDog"
 		]
 	},
 	"importfreeimages": "Увези слободне слике",
+	"importfreeimages-desc": "Пружа начин [[Special:ImportFreeImages|увоза исправно лиценцираних фотографија]] са сајта [http://www.flickr.com flickr].",
+	"importfreeimages_description": "Ова страница омогућава вам да претражујете исправно лиценциране фотографије са сајта flickr и увезете их на пројекат.",
+	"importfreeimages_nophotosfound": "Није пронађена ниједна фотографија која се подудара с дефинисаним критеријумима претраге („$1”). Покушајте поново.",
 	"importfreeimages_owner": "Аутор",
 	"importfreeimages_importthis": "увези ово",
 	"importfreeimages_next": "Следеће $1",
