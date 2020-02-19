@@ -2,13 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Les Meloures",
-			"Robby"
+			"Robby",
+			"Soued031"
 		]
 	},
 	"importfreeimages": "Fräi Biller importéieren",
 	"importfreeimages-desc": "Erméiglecht et fir [[Special:ImportFreeImages|ordentlich lizenzéiert Fotoen]] vu [http://www.flickr.com flickr] z'importéieren",
 	"importfreeimages_description": "Dës Säit erlaabt iech et fir no uerdentlech lizenzéierte Biller vu flickr ze sichen an dës an är Wiki z'importéieren.",
-	"importfreeimages_nophotosfound": "Et goufe keng Photoen no ärer Sich '$1' fonnt, versicht et w.e.g. nach eng Kéier.",
+	"importfreeimages_nophotosfound": "Et goufe keng Photoen no ärer Sich '$1' fonnt, versicht et wgl. nach eng Kéier.",
 	"importfreeimages_owner": "Auteur:",
 	"importfreeimages_importthis": "importéieren",
 	"importfreeimages_next": "Nächst $1",
