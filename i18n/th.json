@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aefgh39622"
+		]
+	},
+	"importfreeimages_nophotosfound": "ไม่พบรูปถ่ายใดที่ตรงตามเกณฑ์การค้นหาของคุณ '$1' โปรดลองอีกครั้ง",
+	"importfreeimages_owner": "ผู้สร้างสรรค์",
+	"importfreeimages_importthis": "นำเข้าสิ่งนี้",
+	"importfreeimages_next": "ถัดไป $1",
+	"importfreeimages_size_square": "สี่เหลี่ยมจัตุรัส",
+	"importfreeimages_size_small": "เล็ก",
+	"importfreeimages_size_medium": "ปานกลาง",
+	"importfreeimages_size_large": "ใหญ่",
+	"importfreeimages_size_original": "ต้นฉบับ"
+}
