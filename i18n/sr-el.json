@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"importfreeimages": "Uvezi slobodne slike",
 	"importfreeimages_owner": "Autor",
 	"importfreeimages_importthis": "uvezi ovo",
