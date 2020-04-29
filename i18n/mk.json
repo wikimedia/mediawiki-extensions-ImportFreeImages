@@ -7,7 +7,7 @@
 	"importfreeimages": "Увоз на слободни слики",
 	"importfreeimages-desc": "Овозможува начин на [[Special:ImportFreeImages|увезување на соодветно лиценцирани слики]] од [http://www.flickr.com flickr]",
 	"importfreeimages_description": "Оваа страница ви овозможува да пребарувате соодветно лиценцирани слики од Flickr и да ги увезувате во вашето вики.",
-	"importfreeimages_nophotosfound": "Нема пронајдено слики по вашиот критериум на пребарување „$1“. Обидете се повторно.",
+	"importfreeimages_nophotosfound": "Не пронајдов слики по вашиот критериум на пребарување „$1“. Обидете се повторно.",
 	"importfreeimages_owner": "Автор",
 	"importfreeimages_importthis": "увези го ова",
 	"importfreeimages_next": "Следен $1",
