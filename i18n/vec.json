@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Candalua"
+			"Candalua",
+			"Fierodelveneto"
 		]
 	},
 	"importfreeimages": "Inporta imagini lìbare",
@@ -10,5 +11,7 @@
 	"importfreeimages_nophotosfound": "Nissuna foto la sodisfa el criterio de riçerca '$1', próa da novo.",
 	"importfreeimages_owner": "Autor",
 	"importfreeimages_importthis": "inporta sto qua",
-	"importfreeimages_next": "Sucessivi $1"
+	"importfreeimages_next": "Sucessivi $1",
+	"importfreeimages_size_small": "Ceo",
+	"importfreeimages_size_large": "Grando"
 }
