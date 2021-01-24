@@ -9,6 +9,7 @@ class SpecialImportFreeImages extends SpecialPage {
 		parent::__construct( 'ImportFreeImages'/*class*/, 'upload'/*restriction*/ );
 	}
 
+	/** @inheritDoc */
 	public function doesWrites() {
 		return true;
 	}
@@ -25,7 +26,7 @@ class SpecialImportFreeImages extends SpecialPage {
 	/**
 	 * Show the special page
 	 *
-	 * @param mixed|null $par Parameter passed to the page
+	 * @param string|null $par Parameter passed to the page
 	 */
 	public function execute( $par ) {
 		global $wgEnableUploads;

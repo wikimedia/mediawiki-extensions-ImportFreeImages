@@ -5,8 +5,11 @@
  */
 
 class ImportFreeImages {
+	/** @var int */
 	public $resultsPerPage;
+	/** @var int */
 	public $resultsPerRow;
+	/** @var string */
 	public $thumbType;
 
 	public function __construct() {
@@ -75,7 +78,7 @@ class ImportFreeImages {
 	 *
 	 * @param string $query Search query
 	 * @param int $page Page number
-	 * @return array TODO
+	 * @return array|false
 	 */
 	public function searchPhotos( $query, $page ) {
 		$this->suppressStrictWarnings();

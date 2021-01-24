@@ -7,6 +7,9 @@ class UploadFreeImage extends UploadFromUrl {
 	 * Hook to UploadCreateOnRequest.
 	 *
 	 * This class processes wpSourceType=IFI
+	 * @param string $type
+	 * @param string &$className
+	 * @return bool
 	 */
 	public static function onUploadCreateFromRequest( $type, &$className ) {
 		if ( $type == 'IFI' ) {
@@ -19,6 +22,7 @@ class UploadFreeImage extends UploadFromUrl {
 
 	/**
 	 * By installing this extension it is unconditionally enabled
+	 * @return bool
 	 */
 	public static function isEnabled() {
 		return true;
@@ -26,6 +30,8 @@ class UploadFreeImage extends UploadFromUrl {
 
 	/**
 	 * A valid request requires wpFlickrId to be set
+	 * @param WebRequest $request
+	 * @return bool
 	 */
 	public static function isValidRequest( $request ) {
 		return (bool)$request->getVal( 'wpFlickrId' );
@@ -34,9 +40,10 @@ class UploadFreeImage extends UploadFromUrl {
 	/**
 	 * Extract wpDestFile and construct the url from wpFlickrId and wpSize and
 	 * pass it to the parent.
+	 * @param WebRequest &$request
 	 */
 	public function initializeFromRequest( &$request ) {
-		return $this->initialize(
+		$this->initialize(
 			$request->getText( 'wpDestFile' ),
 			self::getUrl( $request->getText( 'wpFlickrId' ), $request->getText( 'wpSize' ) ),
 			false
@@ -48,7 +55,7 @@ class UploadFreeImage extends UploadFromUrl {
 	 *
 	 * @param int $flickrId Flickr photo ID
 	 * @param string $requestedSize Label of the requested size
-	 * @return mixed URL or false
+	 * @return string|false URL or false
 	 */
 	public static function getUrl( $flickrId, $requestedSize ) {
 		if ( !$requestedSize ) {
@@ -70,6 +77,10 @@ class UploadFreeImage extends UploadFromUrl {
 	/**
 	 * UI hook to remove all source input selections and replace them by a set
 	 * of radio buttons allowing the user to select the requested size
+	 * @param array &$descriptor
+	 * @param bool &$radio
+	 * @param string $selectedSourceType
+	 * @return bool
 	 */
 	public static function onUploadFormSourceDescriptors( &$descriptor, &$radio, $selectedSourceType ) {
 		global $wgRequest;
@@ -118,6 +129,10 @@ class UploadFreeImage extends UploadFromUrl {
 		return false;
 	}
 
+	/**
+	 * @param array &$descriptor
+	 * @return bool
+	 */
 	public static function onUploadFormInitDescriptor( &$descriptor ) {
 		global $wgRequest;
 
