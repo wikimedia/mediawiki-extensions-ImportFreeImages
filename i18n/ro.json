@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Andreyyshore",
 			"Firilacroco",
 			"KlaudiuMihaila",
 			"Stelistcristi"
 		]
 	},
-	"importfreeimages_nophotosfound": "Nu au fost găsite fotografii pentru criteriul dvs. de căutare '$1', vă rugăm încercaţi iar.",
+	"importfreeimages_nophotosfound": "Nu au fost găsite fotografii pentru criteriul dvs. de căutare „$1”, vă rugăm încercați din nou.",
 	"importfreeimages_owner": "Autor",
 	"importfreeimages_importthis": "importă aceasta",
 	"importfreeimages_next": "Înainte $1",
