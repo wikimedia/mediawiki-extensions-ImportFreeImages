@@ -9,7 +9,7 @@
 	"descriptionmsg": "importfreeimages-desc",
 	"type": "specialpage",
 	"requires": {
-		"MediaWiki": ">= 1.29.0"
+		"MediaWiki": ">= 1.34.0"
 	},
 	"SpecialPages": {
 		"ImportFreeImages": "SpecialImportFreeImages"

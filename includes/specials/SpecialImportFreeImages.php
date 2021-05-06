@@ -46,7 +46,7 @@ class SpecialImportFreeImages extends SpecialPage {
 
 		# Check that the user has 'upload' right and is logged in
 		if ( !$user->isAllowed( 'upload' ) ) {
-			if ( !$user->isLoggedIn() ) {
+			if ( !$user->isRegistered() ) {
 				$out->showErrorPage( 'uploadnologin', 'uploadnologintext' );
 			} else {
 				throw new PermissionsError( 'upload' );
