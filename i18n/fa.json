@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Huji",
+			"Jeeputer",
 			"Persianizer",
 			"محک"
 		]
@@ -14,7 +15,7 @@
 	"importfreeimages_importthis": "این را وارد کن",
 	"importfreeimages_next": "$1 بعدی",
 	"importfreeimages_size_square": "مربع",
-	"importfreeimages_size_thumbnail": "انگوس گتی",
+	"importfreeimages_size_thumbnail": "بندانگشتی",
 	"importfreeimages_size_small": "کوچک",
 	"importfreeimages_size_medium": "متوسط",
 	"importfreeimages_size_large": "بزرگ",
