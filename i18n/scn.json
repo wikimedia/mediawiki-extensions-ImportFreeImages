@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ajeje Brazorf",
 			"Melos",
 			"Santu"
 		]
@@ -11,5 +12,9 @@
 	"importfreeimages_nophotosfound": "Nudda futugrafìa suddisfa lu critèriu di circata $1', prova n'àutra vota.",
 	"importfreeimages_owner": "Auturi",
 	"importfreeimages_importthis": "mporta chistu",
-	"importfreeimages_next": "Succissivi $1"
+	"importfreeimages_next": "Succissivi $1",
+	"importfreeimages_size_square": "Quatratu",
+	"importfreeimages_size_thumbnail": "Miniatura",
+	"importfreeimages_size_small": "Nicu",
+	"importfreeimages_size_original": "Orìgginali"
 }
