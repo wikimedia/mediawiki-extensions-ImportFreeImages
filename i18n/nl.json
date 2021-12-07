@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"SPQRobin",
-			"Siebrand"
+			"Siebrand",
+			"Danieldegroot2"
 		]
 	},
 	"importfreeimages": "Vrije afbeeldingen importeren",
 	"importfreeimages-desc": "Maakt het mogelijk om [[Special:ImportFreeImages|correct gelicenseerde afbeeldingen]] van [http://www.flickr.com  Flickr] te importeren",
-	"importfreeimages_description": "Deze pagina laat u toe om juist gelicenseerde foto's van flickr te zoeken and die te importeren naar uw wiki.",
+	"importfreeimages_description": "Deze pagina laat u toe om juist gelicenseerde foto's van flickr te zoeken en die te importeren naar uw wiki.",
 	"importfreeimages_nophotosfound": "Er zijn geen foto's gevonden voor uw zoekcriteria '$1', probeer opniew.",
 	"importfreeimages_owner": "Auteur",
 	"importfreeimages_importthis": "dit importeren",
