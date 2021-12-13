@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Malafaya"
+			"Malafaya",
+			"Joao Xavier"
 		]
 	},
-	"importfreeimages_owner": "Autoro"
+	"importfreeimages_owner": "Autoro",
+	"importfreeimages_size_thumbnail": "Miniaturo"
 }

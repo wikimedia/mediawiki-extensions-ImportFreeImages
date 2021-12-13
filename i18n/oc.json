@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cedric31"
+			"Cedric31",
+			"BrennodAloisi"
 		]
 	},
 	"importfreeimages": "Importar d'Imatges Liures",
@@ -10,5 +11,6 @@
 	"importfreeimages_nophotosfound": "Cap de fòto es pas estada trobada a partir de vòstres critèris de recèrcas '$1', ensajatz tornamai.",
 	"importfreeimages_owner": "Autor",
 	"importfreeimages_importthis": "l’importar",
-	"importfreeimages_next": "$1 seguents"
+	"importfreeimages_next": "$1 seguents",
+	"importfreeimages_size_thumbnail": "Miniatura"
 }
