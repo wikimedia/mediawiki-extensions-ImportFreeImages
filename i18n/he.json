@@ -2,16 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"0ftal",
+			"Amire80",
 			"Rotemliss",
 			"YaronSh"
 		]
 	},
-	"importfreeimages": "ייבוא תמונות חופשיות",
+	"importfreeimages": "יבוא תמונות חופשיות",
 	"importfreeimages-desc": "אפשרות ל[[Special:ImportFreeImages|ייבוא תמונות בעלות רשיון מתאים]] מ־[http://www.flickr.com Flickr]",
 	"importfreeimages_description": "דף זה מאפשר לכם לחפש תמונות בעלות רשיון מתאים מ־Flickr ולייבא אותן אל הוויקי שלכם.",
 	"importfreeimages_nophotosfound": "לא נמצאו תמונות לפי קריטריון החיפוש \"$1\", אנא נסו שנית.",
 	"importfreeimages_owner": "יוצר",
-	"importfreeimages_importthis": "ייבוא תמונה זו",
+	"importfreeimages_importthis": "לייבא את זה",
 	"importfreeimages_next": "$1 הבאות",
 	"importfreeimages_size_square": "מרובע",
 	"importfreeimages_size_thumbnail": "תמונה ממוזערת",
