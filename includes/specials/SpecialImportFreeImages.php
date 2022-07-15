@@ -164,9 +164,9 @@ class SpecialImportFreeImages extends SpecialPage {
 
 		if ( $ifi->resultsPerPage * $page < $photos['total'] ) {
 			$page++;
-			$out->addHTML( '<br />' . Linker::link(
+			$out->addHTML( '<br />' . $this->getLinkRenderer()->makeLink(
 				$this->getPageTitle(),
-				$this->msg( 'importfreeimages_next', $ifi->resultsPerPage )->escaped(),
+				$this->msg( 'importfreeimages_next', $ifi->resultsPerPage )->text(),
 				[],
 				[ 'p' => $page, 'q' => $q ]
 			) );
