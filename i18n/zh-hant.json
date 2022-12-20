@@ -3,7 +3,8 @@
 		"authors": [
 			"Mark85296341",
 			"Tomchiukc",
-			"Wrightbus"
+			"Wrightbus",
+			"捍粵者"
 		]
 	},
 	"importfreeimages": "匯入自由版權圖片",
@@ -12,7 +13,7 @@
 	"importfreeimages_nophotosfound": "沒有相片符合你提出的「$1」搜尋要求，請再試。",
 	"importfreeimages_owner": "作者",
 	"importfreeimages_importthis": "匯入這個",
-	"importfreeimages_next": "下一個 $1",
+	"importfreeimages_next": "下幅$1",
 	"importfreeimages_size_square": "方點",
 	"importfreeimages_size_thumbnail": "縮圖",
 	"importfreeimages_size_small": "小",
