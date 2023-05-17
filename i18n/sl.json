@@ -6,8 +6,8 @@
 		]
 	},
 	"importfreeimages": "Uvoz prostih slik",
-	"importfreeimages-desc": "Omogoča [[Special:ImportFreeImages|uvoz ustrezno licenciranih fotografij]] s [http://www.flickr.com Flickra]",
-	"importfreeimages_description": "Stran vam omogoča iskanje ustrezno licenciranih fotografij na Flickru in njihov uvoz v vaš wiki.",
+	"importfreeimages-desc": "Omogoča [[Special:ImportFreeImages|uvoz ustrezno licenciranih fotografij]] iz [http://www.flickr.com Flickra]",
+	"importfreeimages_description": "Stran vam omogoča iskanje ustrezno licenciranih fotografij v Flickru in njihov uvoz v vaš viki.",
 	"importfreeimages_nophotosfound": "Za vaš iskalni pogoj '$1' ni bila najdena nobena fotografija; prosimo, poskusite znova.",
 	"importfreeimages_owner": "Avtor",
 	"importfreeimages_importthis": "uvozi to",
