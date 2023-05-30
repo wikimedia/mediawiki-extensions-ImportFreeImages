@@ -1,8 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"Manvydasz"
+			"Manvydasz",
+			"Nokeoo"
 		]
 	},
-	"importfreeimages_size_thumbnail": "Miniatiūrų"
+	"importfreeimages": "Importuoti laisvo naudojimo paveikslėlius",
+	"importfreeimages-desc": "Suteikia galimybę [[Special:ImportFreeImages|importuoti tinkamai licencijuotas nuotraukas]] iš [http://www.flickr.com flickr]",
+	"importfreeimages_description": "Šiame puslapyje galite ieškoti tinkamai licencijuotų nuotraukų flickr ir importuoti jas į savo vikį.",
+	"importfreeimages_nophotosfound": "Nerasta nuotraukų pagal jūsų paieškos kriterijų „$1“, bandykite dar kartą.",
+	"importfreeimages_owner": "Autorius",
+	"importfreeimages_importthis": "importuoti tai",
+	"importfreeimages_next": "Kitas $1",
+	"importfreeimages_size_square": "Kvadratas",
+	"importfreeimages_size_thumbnail": "Miniatiūrų",
+	"importfreeimages_size_small": "Mažas",
+	"importfreeimages_size_medium": "Vidutinis",
+	"importfreeimages_size_large": "Didelis",
+	"importfreeimages_size_original": "Originalus"
 }
