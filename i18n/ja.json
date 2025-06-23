@@ -5,12 +5,13 @@
 			"Fryed-peach",
 			"Hosiryuhosi",
 			"Rxy",
-			"青子守歌"
+			"青子守歌",
+			"Shirayuki"
 		]
 	},
 	"importfreeimages": "フリーの画像をインポート",
 	"importfreeimages-desc": "[http://www.flickr.com Flickr] から[[Special:ImportFreeImages|適切にライセンスされた写真をインポートする]]手段を提供する",
-	"importfreeimages_description": "このページを使うと、Flickr で適切にライセンスされた画像を検索し、あなたのウィキにインポートすることができます。",
+	"importfreeimages_description": "このページでは、適切なライセンスの付いた Flickr の画像を検索して、ウィキにインポートできます。",
 	"importfreeimages_nophotosfound": "検索条件「$1」に適う写真は見つかりませんでした。もう一度試してください。",
 	"importfreeimages_owner": "著者",
 	"importfreeimages_importthis": "これをインポート",
