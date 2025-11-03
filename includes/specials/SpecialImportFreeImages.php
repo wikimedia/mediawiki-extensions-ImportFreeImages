@@ -1,5 +1,7 @@
 <?php
 
+use MediaWiki\Html\Html;
+
 class SpecialImportFreeImages extends SpecialPage {
 
 	/**
