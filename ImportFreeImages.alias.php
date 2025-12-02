@@ -223,7 +223,17 @@ $specialPageAliases['tr'] = [
 	'ImportFreeImages' => [ 'ÖzgürResimAktar', 'ÖzgürResimİçeAktar' ],
 ];
 
-/** Simplified Chinese (中文（简体）‎) */
+/** Chinese (中文) */
+$specialPageAliases['zh'] = [
+	'ImportFreeImages' => [ 'ImportFreeImages' ],
+];
+
+/** Simplified Chinese (中文（简体）) */
 $specialPageAliases['zh-hans'] = [
-	'ImportFreeImages' => [ '导入自由图像' ],
+	'ImportFreeImages' => [ '导入自由文件', '导入自由图像' ],
+];
+
+/** Traditional Chinese (中文（繁體）) */
+$specialPageAliases['zh-hant'] = [
+	'ImportFreeImages' => [ '匯入自由檔案', '匯入自由圖片' ],
 ];
