@@ -45,7 +45,7 @@ class UploadFreeImage extends UploadFromUrl {
 	public function initializeFromRequest( &$request ) {
 		$this->initialize(
 			$request->getText( 'wpDestFile' ),
-			self::getUrl( $request->getText( 'wpFlickrId' ), $request->getText( 'wpSize' ) ),
+			$this->getFlickrUrl( $request->getText( 'wpFlickrId' ), $request->getText( 'wpSize' ) ),
 			false
 		);
 	}
@@ -57,7 +57,7 @@ class UploadFreeImage extends UploadFromUrl {
 	 * @param string $requestedSize Label of the requested size
 	 * @return string|false URL or false
 	 */
-	public static function getUrl( $flickrId, $requestedSize ) {
+	private function getFlickrUrl( $flickrId, $requestedSize ) {
 		if ( !$requestedSize ) {
 			return false;
 		}
