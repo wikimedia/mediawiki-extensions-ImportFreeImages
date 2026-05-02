@@ -8,7 +8,12 @@ class SpecialImportFreeImages extends SpecialPage {
 	 * Constructor
 	 */
 	public function __construct() {
-		parent::__construct( 'ImportFreeImages'/*class*/, 'upload'/*restriction*/ );
+		parent::__construct( 'ImportFreeImages' );
+	}
+
+	/** @inheritDoc */
+	public function getRestriction(): string {
+		return 'upload';
 	}
 
 	/** @inheritDoc */
