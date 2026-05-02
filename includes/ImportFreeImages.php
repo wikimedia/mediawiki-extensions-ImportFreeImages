@@ -5,12 +5,21 @@
  */
 
 class ImportFreeImages {
-	/** @var int */
-	public $resultsPerPage;
-	/** @var int */
-	public $resultsPerRow;
-	/** @var string */
-	public $thumbType;
+	public readonly string $apiKey;
+	public readonly string $creditsTemplate;
+	public readonly bool $shouldGetOriginal;
+	public readonly bool $promptForFilename;
+	public readonly string $phpFlickrFile;
+	public readonly int $resultsPerPage;
+	public readonly int $resultsPerRow;
+	public readonly array $licenses;
+	public readonly string $sortBy;
+	public readonly string $searchBy;
+	public readonly bool $appendRandomNumber;
+	public readonly string $thumbType;
+	private int $oldLevel;
+	// @phan-suppress-next-line PhanUndeclaredTypeProperty
+	private phpFlickr $flickr;
 
 	public function __construct() {
 		# Load settings
@@ -43,6 +52,7 @@ class ImportFreeImages {
 	 */
 	protected function suppressStrictWarnings() {
 		$this->oldLevel = error_reporting();
+		// @phan-suppress-next-line PhanDeprecatedGlobalConstant
 		error_reporting( $this->oldLevel ^ E_STRICT );
 	}
 
@@ -68,6 +78,7 @@ class ImportFreeImages {
 		if ( !$this->apiKey ) {
 			throw new MWException( 'No Flickr API key found' );
 		}
+		// @phan-suppress-next-line PhanUndeclaredClassMethod
 		$this->flickr = new phpFlickr( $this->apiKey );
 
 		$this->restoreStrictWarnings();
@@ -82,6 +93,7 @@ class ImportFreeImages {
 	 */
 	public function searchPhotos( $query, $page ) {
 		$this->suppressStrictWarnings();
+		// @phan-suppress-next-line PhanUndeclaredClassMethod
 		$result = $this->flickr->photos_search(
 			[
 				$this->searchBy => $query,
@@ -109,6 +121,7 @@ class ImportFreeImages {
 	 */
 	public function getPhotoInfo( $id ) {
 		$this->suppressStrictWarnings();
+		// @phan-suppress-next-line PhanUndeclaredClassMethod
 		$result = $this->flickr->photos_getInfo( $id );
 		$this->restoreStrictWarnings();
 		return $result;
@@ -122,6 +135,7 @@ class ImportFreeImages {
 	 */
 	public function getOwnerInfo( $owner ) {
 		$this->suppressStrictWarnings();
+		// @phan-suppress-next-line PhanUndeclaredClassMethod
 		$result = $this->flickr->people_getInfo( $owner );
 		$this->restoreStrictWarnings();
 		return $result;
@@ -135,6 +149,7 @@ class ImportFreeImages {
 	 */
 	public function getSizes( $id ) {
 		$this->suppressStrictWarnings();
+		// @phan-suppress-next-line PhanUndeclaredClassMethod
 		$result = $this->flickr->photos_getSizes( $id );
 		$this->restoreStrictWarnings();
 		return $result;

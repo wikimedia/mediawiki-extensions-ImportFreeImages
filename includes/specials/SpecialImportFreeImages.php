@@ -62,8 +62,9 @@ class SpecialImportFreeImages extends SpecialPage {
 		}
 
 		# Check blocks
-		if ( $user->getBlock() ) {
-			throw new UserBlockedError( $user->getBlock() );
+		$block = $user->getBlock();
+		if ( $block ) {
+			throw new UserBlockedError( $block );
 		}
 
 		# Show a message if the database is in read-only mode

@@ -45,7 +45,7 @@ class UploadFreeImage extends UploadFromUrl {
 	public function initializeFromRequest( &$request ) {
 		$this->initialize(
 			$request->getText( 'wpDestFile' ),
-			$this->getFlickrUrl( $request->getText( 'wpFlickrId' ), $request->getText( 'wpSize' ) ),
+			$this->getFlickrUrl( $request->getInt( 'wpFlickrId' ), $request->getText( 'wpSize' ) ),
 			false
 		);
 	}
@@ -99,7 +99,7 @@ class UploadFreeImage extends UploadFromUrl {
 		}
 
 		$ifi = new ImportFreeImages();
-		$sizes = $ifi->getSizes( $wgRequest->getText( 'wpFlickrId' ) );
+		$sizes = $ifi->getSizes( $wgRequest->getInt( 'wpFlickrId' ) );
 
 		// Create radio buttons. TODO: Show resolution; Make largest size default
 		$options = [];
@@ -144,13 +144,13 @@ class UploadFreeImage extends UploadFromUrl {
 		}
 
 		$ifi = new ImportFreeImages();
-		$id = $wgRequest->getVal( 'wpFlickrId', 0 );
+		$id = $wgRequest->getInt( 'wpFlickrId' );
 		$info = $ifi->getPhotoInfo( $id );
 
 		$name_wiki = wfEscapeWikiText( $info['owner']['username'] );
 		if ( $ifi->creditsTemplate ) {
 			$owner_wiki = wfEscapeWikiText( $info['owner']['realname'] );
-			$id_wiki = wfEscapeWikiText( $id );
+			$id_wiki = wfEscapeWikiText( (string)$id );
 			$caption = '{{' . $ifi->creditsTemplate . intval( $info['license'] ) .
 				"|1=$id_wiki|2=$owner_wiki|3=$name_wiki}}";
 		} else {
