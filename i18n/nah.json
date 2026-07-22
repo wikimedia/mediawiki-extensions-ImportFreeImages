@@ -2,13 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Fluence",
-			"Taresi"
+			"Taresi",
+			"Akapochtli"
 		]
 	},
 	"importfreeimages": "Xicahxilti yōllohxoxōuhqui īxīptlahtli",
 	"importfreeimages-desc": "Tihuelīti tiquincōhua [[Special:ImportFreeImages|ōnahuatīli īxiptli]] īhuīcpa [http://www.flickr.com flickr].",
-	"importfreeimages_description": "Tihuelīti inīn zāzanilca tiquincōhua īxiptli īhuīcpa flickr īhuīc mohuiqui.",
+	"importfreeimages_description": "Tihueli ica tlahcuilolamatl tictemoz ixiptli ihuicpa flickr ihuan ticzacaz ipan mowiki.",
 	"importfreeimages_owner": "Chīhualōni",
-	"importfreeimages_importthis": "tiquicōhuāz inīn",
+	"importfreeimages_importthis": "tichuilanaz inin",
 	"importfreeimages_next": "Niman $1"
 }
