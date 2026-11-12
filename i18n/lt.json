@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Babellini",
 			"Manvydasz",
 			"Nokeoo"
 		]
@@ -17,5 +18,5 @@
 	"importfreeimages_size_small": "Mažas",
 	"importfreeimages_size_medium": "Vidutinis",
 	"importfreeimages_size_large": "Didelis",
-	"importfreeimages_size_original": "Originalus"
+	"importfreeimages_size_original": "Originalas"
 }
